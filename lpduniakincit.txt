@@ -2,19 +2,19 @@
 <html lang="id-ID" xmlns:wormhole="http://www.w3.org/1999/xhtml">
 
 <head>
-  <base href="https://thebespokeadvantage.com/contact/" />
+  <base href="https://cadassisting.com/contact-location/" />
   <title>DUNIATOTO: Situs Toto Togel Macau Online 2025 Terpercaya dan Resmi</title>
   <meta content="DUNIATOTO adalah situs toto togel terpercaya yang menghadirkan togel macau terlengkap dan dunia toto online 2025 dengan pasaran resmi aman mudah dimainkan memiliki winrate tinggi bonus menarik layanan cepat dan support penuh untuk semua pemain setia." name="description" />
   <meta content="width=device-width, initial-scale=1.0, user-scalable=no" name="viewport" />
   <meta content="index, follow" name="robots" />
-  <meta content="https://thebespokeadvantage.com/contact/" name="og:url" />
+  <meta content="https://cadassisting.com/contact-location/" name="og:url" />
   <meta content="DUNIATOTO: Situs Toto Togel Macau Online 2025 Terpercaya dan Resmi" name="og:title" />
   <meta content="product" name="og:type" />
   <meta content="DUNIATOTO adalah situs toto togel terpercaya yang menghadirkan togel macau terlengkap dan dunia toto online 2025 dengan pasaran resmi aman mudah dimainkan memiliki winrate tinggi bonus menarik layanan cepat dan support penuh untuk semua pemain setia." name="og:description" />
   <meta content="https://res.cloudinary.com/djpaotpl4/image/upload/v1756739531/photo_2025-08-31_21-55-16_qvlejy.jpg" name="og:image" />
   <link href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" rel="manifest" />
   <link href="https://res.cloudinary.com/djpaotpl4/image/upload/v1753391836/fav_duniatoto_jsraix.png" rel="shortcut icon" />
-  <link href="https://thebespokeadvantage.com/contact/" rel="canonical" />
+  <link href="https://cadassisting.com/contact-location/" rel="canonical" />
   <link href="https://ampduniatoto99999.pages.dev/amp/" rel="amphtml" />
   <link as="image" href="https://res.cloudinary.com/djpaotpl4/image/upload/v1756739531/photo_2025-08-31_21-55-16_qvlejy.jpg" rel="preload" />
   <link href="https://cart.lazada.co.id" rel="preconnect dns-prefetch" />
@@ -464,7 +464,7 @@
     </script>
   </div>
   <script type="application/ld+json">
-  {"@type":"Product","@context":"https://schema.org","name":"DUNIATOTO: Situs Toto Togel Macau Online 2025 Terpercaya dan Resmi","image":"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg","category":"Televisi & Video","brand":{"@type":"Brand","name":"Samsung","url":"https://thebespokeadvantage.com/contact/"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"DUNIATOTO adalah situs toto togel terpercaya yang menghadirkan togel macau terlengkap dan dunia toto online 2025 dengan pasaran resmi aman mudah dimainkan memiliki winrate tinggi bonus menarik layanan cepat dan support penuh untuk semua pemain setia.","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","offers":{"@type":"Offer","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
+  {"@type":"Product","@context":"https://schema.org","name":"DUNIATOTO: Situs Toto Togel Macau Online 2025 Terpercaya dan Resmi","image":"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg","category":"Televisi & Video","brand":{"@type":"Brand","name":"Samsung","url":"https://cadassisting.com/contact-location/"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"DUNIATOTO adalah situs toto togel terpercaya yang menghadirkan togel macau terlengkap dan dunia toto online 2025 dengan pasaran resmi aman mudah dimainkan memiliki winrate tinggi bonus menarik layanan cepat dan support penuh untuk semua pemain setia.","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","offers":{"@type":"Offer","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
   </script>
   <script data-rh="true" type="application/ld+json">
   {
@@ -474,35 +474,35 @@
             "@type": "ListItem",
             "position": 1,
             "item": {
-              "@id": "https://thebespokeadvantage.com/contact/",
+              "@id": "https://cadassisting.com/contact-location/",
               "name": "DUNIATOTO"
             }
           }, {
             "@type": "ListItem",
             "position": 2,
             "item": {
-              "@id": "https://thebespokeadvantage.com/contact/",
+              "@id": "https://cadassisting.com/contact-location/",
               "name": "SITUS DUNIATOTO"
             }
           }, {
             "@type": "ListItem",
             "position": 3,
             "item": {
-              "@id": "https://thebespokeadvantage.com/contact/",
+              "@id": "https://cadassisting.com/contact-location/",
               "name": "DAFTAR DUNIATOTO"
             }
           }, {
             "@type": "ListItem",
             "position": 4,
             "item": {
-              "@id": "https://thebespokeadvantage.com/contact/",
+              "@id": "https://cadassisting.com/contact-location/",
               "name": "LOGIN DUNIATOTO"
             }
           }, {
             "@type": "ListItem",
             "position": 5,
             "item": {
-              "@id": "https://thebespokeadvantage.com/contact/",
+              "@id": "https://cadassisting.com/contact-location/",
               "name": "DUNIATOTO: Situs Toto Togel Macau Online 2025 Terpercaya dan Resmi"
             }
           }]
@@ -546,7 +546,7 @@
                   <a class="highlight" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0" href="https://yida.alibaba-inc.com/alibaba/web/APP_NZEYXSPGPBMKO7Z1LCE5/inst/homepage/?spm=a2o42.home.header.d0.654346b5QeptXc#/" target="_blank">INTERNAL FEEDBACK</a>
                 </div>
                 <div class="top-links-item" id="topActionFeedback">
-                  <a class="highlight" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback" href="https://thebespokeadvantage.com/contact/" target="_blank">DUNIATOTO</a>
+                  <a class="highlight" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback" href="https://cadassisting.com/contact-location/" target="_blank">DUNIATOTO</a>
                 </div>
                 <div class="top-links-item orange" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1" id="topActionDownload">
                   <span>SITUS DUNIATOTO</span>
@@ -587,10 +587,10 @@
                           <div class="error-message" id="topActionDownloadErrorMsg">
                           </div>
                           <div class="app-stores">
-                            <a class="store-link" href="https://thebespokeadvantage.com/contact/">
+                            <a class="store-link" href="https://cadassisting.com/contact-location/">
                               <i class="app-apple"></i>
                             </a>
-                            <a class="store-link" href="https://thebespokeadvantage.com/contact/">
+                            <a class="store-link" href="https://cadassisting.com/contact-location/">
                               <i class="app-google"></i>
                             </a>
                           </div>
@@ -600,7 +600,7 @@
                   </div>
                 </div>
                 <div class="top-links-item" id="topActionSell">
-                  <a class="cyan" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2" href="https://thebespokeadvantage.com/contact/">DAFTAR DUNIATOTO</a>
+                  <a class="cyan" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2" href="https://cadassisting.com/contact-location/">DAFTAR DUNIATOTO</a>
                 </div>
                 <div class="top-links-item" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3" id="topActionCustomCare">
                   <span>LOGIN DUNIATOTO</span>
@@ -711,7 +711,7 @@
             <div class="lzd-logo-bar">
               <div class="logo-bar-content header-content">
                 <div class="lzd-logo-content">
-                  <a href="https://thebespokeadvantage.com/contact/">
+                  <a href="https://cadassisting.com/contact-location/">
                     <img alt="DUNIATOTO: Situs Toto Togel Macau Online 2025 Terpercaya dan Resmi" loading="lazy" src="https://res.cloudinary.com/djpaotpl4/image/upload/v1753391830/logo_duniatoto_ox2puj.png" />
                   </a>
                 </div>
@@ -725,7 +725,7 @@
                     <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-config="{}" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index">
                       <div class="lzd-site-menu-nav-container">
                         <div class="lzd-site-menu-nav-category">
-                          <a href="https://thebespokeadvantage.com/contact/">
+                          <a href="https://cadassisting.com/contact-location/">
                             <span class="lzd-site-menu-nav-category-text">Kategori</span>
                           </a>
                           <div class="lzd-site-menu-nav-menu">
@@ -1760,25 +1760,25 @@
                           </div>
                         </div>
                         <nav class="lzd-menu-labels">
-                          <a class="lzd-menu-labels-item" href="https://thebespokeadvantage.com/contact/">
+                          <a class="lzd-menu-labels-item" href="https://cadassisting.com/contact-location/">
                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                               <img alt="DUNIATOTO" class="lzd-site-nav-menu-iconfont-img" loading="lazy" src="https://res.cloudinary.com/djpaotpl4/image/upload/v1753391836/fav_duniatoto_jsraix.png" />
                             </span>
                             <span class="lzd-menu-labels-item-text">DUNIATOTO</span>
                           </a>
-                          <a class="lzd-menu-labels-item" href="https://thebespokeadvantage.com/contact/">
+                          <a class="lzd-menu-labels-item" href="https://cadassisting.com/contact-location/">
                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                               <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" loading="lazy" src="https://res.cloudinary.com/djpaotpl4/image/upload/v1753391836/fav_duniatoto_jsraix.png" />
                             </span>
                             <span class="lzd-menu-labels-item-text">SITUS DUNIATOTO</span>
                           </a>
-                          <a class="lzd-menu-labels-item" href="https://thebespokeadvantage.com/contact/1">
+                          <a class="lzd-menu-labels-item" href="https://cadassisting.com/contact-location/1">
                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                               <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" loading="lazy" src="https://res.cloudinary.com/djpaotpl4/image/upload/v1753391836/fav_duniatoto_jsraix.png" />
                             </span>
                             <span class="lzd-menu-labels-item-text">DAFTAR DUNIATOTO</span>
                           </a>
-                          <a class="lzd-menu-labels-item" href="https://thebespokeadvantage.com/contact/">
+                          <a class="lzd-menu-labels-item" href="https://cadassisting.com/contact-location/">
                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                               <img alt="LOGIN DUNIATOTO" class="lzd-site-nav-menu-iconfont-img" loading="lazy" src="https://res.cloudinary.com/djpaotpl4/image/upload/v1753391836/fav_duniatoto_jsraix.png" />
                             </span>
@@ -1806,7 +1806,7 @@
             <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-config="{}" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index">
               <div class="lzd-site-menu-nav-container">
                 <div class="lzd-site-menu-nav-category">
-                  <a href="https://thebespokeadvantage.com/contact/">
+                  <a href="https://cadassisting.com/contact-location/">
                     <span class="lzd-site-menu-nav-category-text">Kategori</span>
                   </a>
                   <div class="lzd-site-menu-nav-menu">
@@ -2847,19 +2847,19 @@
                     </span>
                     <span class="lzd-menu-labels-item-text">DUNIATOTO</span>
                   </a>
-                  <a class="lzd-menu-labels-item" href="https://thebespokeadvantage.com/contact/">
+                  <a class="lzd-menu-labels-item" href="https://cadassisting.com/contact-location/">
                     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                       <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" loading="lazy" src="https://res.cloudinary.com/djpaotpl4/image/upload/v1753391836/fav_duniatoto_jsraix.png" />
                     </span>
                     <span class="lzd-menu-labels-item-text">SITUS DUNIATOTO</span>
                   </a>
-                  <a class="lzd-menu-labels-item" href="https://thebespokeadvantage.com/contact/">
+                  <a class="lzd-menu-labels-item" href="https://cadassisting.com/contact-location/">
                     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                       <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" loading="lazy" src="https://res.cloudinary.com/djpaotpl4/image/upload/v1753391836/fav_duniatoto_jsraix.png" />
                     </span>
                     <span class="lzd-menu-labels-item-text">DAFTAR DUNIATOTO</span>
                   </a>
-                  <a class="lzd-menu-labels-item" href="https://thebespokeadvantage.com/contact/">
+                  <a class="lzd-menu-labels-item" href="https://cadassisting.com/contact-location/">
                     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                       <img alt="Slot Online" class="lzd-site-nav-menu-iconfont-img" loading="lazy" src="https://res.cloudinary.com/djpaotpl4/image/upload/v1753391836/fav_duniatoto_jsraix.png" />
                     </span>
@@ -3226,7 +3226,7 @@
               <div class="pdp-block module" id="module_product_brand_1">
                 <div class="pdp-product-brand">
                   <span class="pdp-product-brand__name">Merek :</span>
-                  <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" href="https://thebespokeadvantage.com/contact/" target="_self">DUNIATOTO</a>
+                  <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" href="https://cadassisting.com/contact-location/" target="_self">DUNIATOTO</a>
                   <div class="pdp-product-brand__divider">
                   </div>
                 </div>
@@ -3376,13 +3376,13 @@
                 <a href="//group.lazada.com/en/about/">Tentang Lazada</a>
               </li>
               <li class="footer-li">
-                <a href="https://thebespokeadvantage.com/contact/">Afﬁliate Program</a>
+                <a href="https://cadassisting.com/contact-location/">Afﬁliate Program</a>
               </li>
               <li class="footer-li">
                 <a href="//www.lazada.com/work-at-lazada/">Karir</a>
               </li>
               <li class="footer-li">
-                <a href="https://thebespokeadvantage.com/contact/">Syarat &amp; Ketentuan</a>
+                <a href="https://cadassisting.com/contact-location/">Syarat &amp; Ketentuan</a>
               </li>
               <li class="footer-li">
                 <a href="https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/legal/PrivacyPolicy">Kebijakan Privasi</a>
@@ -3397,7 +3397,7 @@
                 <a href="https://www.lazada.co.id/security/">Lazada Security</a>
               </li>
               <li class="footer-li">
-                <a href="https://thebespokeadvantage.com/contact/">Intellectual Property Protection</a>
+                <a href="https://cadassisting.com/contact-location/">Intellectual Property Protection</a>
               </li>
             </ul>
           </div>
