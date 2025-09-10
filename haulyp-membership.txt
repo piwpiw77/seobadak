@@ -9,6 +9,7 @@
   <meta name="page google.com" content="https://www.google.com/search?q=duniatoto">
   <meta name="page google.co.id" content="https://www.google.co.id/search?q=duniatoto">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+<meta name="google-site-verification" content="NpdJmnXVqFn9bFD7JW4AmkOKddSAtbbmG2hzhZJBvZA" />
   <meta name="aplus-auto-exp" content="[{&#34;filter&#34;:&#34;exp-tracking=suggest-official-store&#34;,&#34;logkey&#34;:&#34;/lzdse.result.os_impr&#34;,&#34;props&#34;:[&#34;href&#34;],&#34;tag&#34;:&#34;a&#34;}]" />
   <meta name="data-spm" content="a2o4j" />
   <meta name="robots" content="index, follow" />
