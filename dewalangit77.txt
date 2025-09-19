@@ -51,7 +51,7 @@
   <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js" nonce="QvcOq2I4tUw4zdd2TcKFsg==" defer></script>
   <meta name="theme-color" content="#333333">
   <link rel="canonical" href="https://nhcc.co.ug/properties/" />
-  <link rel="amphtml" href="https://nhcc-co-ug.pages.dev/amp/" />
+  <link rel="amphtml" href="https://27493c47.nhcc-co-ug77.pages.dev/amp/" />
 
   <script type="application/ld+json">
     {
