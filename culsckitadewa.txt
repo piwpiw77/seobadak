@@ -157,7 +157,7 @@ var codeVersion="f7d8b3d494288b34cb00105ee5d230d68b0ccca7"
         "sameAs": [
                 "https://www.facebook.com/dewalangit77OFFICIAL,
                 "https://twitter.com/dewalangit77",
-                "https://www.instagram.com/DEWALANGIT77
+                "https://www.instagram.com/DEWALANGIT77"
         ],
         "contactPoint": {
                 "@type": "ContactPoint",
