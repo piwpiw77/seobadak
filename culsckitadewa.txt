@@ -154,10 +154,10 @@ var codeVersion="f7d8b3d494288b34cb00105ee5d230d68b0ccca7"
         "name": "SLOT GACOR",
         "url": "https://culsc.org/our-programs/safe-haven-youth-leadership-camp/",
         "logo": "https://res.cloudinary.com/djpaotpl4/image/upload/v1757761541/DEWA_han50d.png",
-        "sameAs": [
-                "https://www.facebook.com/dewalangit77OFFICIAL,
-                "https://twitter.com/dewalangit77",
-                "https://www.instagram.com/DEWALANGIT77"
+          "sameAs": [
+    "https://www.facebook.com/dewalangit77",
+    "https://twitter.com/dewalangit77",
+    "https://www.instagram.com/dewalangit"
         ],
         "contactPoint": {
                 "@type": "ContactPoint",
