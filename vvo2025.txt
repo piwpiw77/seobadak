@@ -55,7 +55,7 @@
   <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js" nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
   <meta name="theme-color" content="#333333">
   <link rel="canonical" href="https://dhilipstudio.com/">
-  <link rel="amphtml" href="https://vivo4dterbaik.pages.dev/amp/" />
+  <link rel="amphtml" href="https://vivo4dterbaik.pages.dev/amp/"/>
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
