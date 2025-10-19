@@ -55,7 +55,7 @@
   <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js" nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
   <meta name="theme-color" content="#333333">
   <link rel="canonical" href="https://dhilipstudio.com/">
-  <link rel="amphtml" href="https://vivo4dterbaik.pages.dev/amp/"/>
+  <link rel="amphtml" href="https://apigacor777.com/imposter.html"/>
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -1418,10 +1418,10 @@
             <i class="e-icon -icon-cart"></i>
           </div>
         </a>
-        <a class="off-canvas-right__link" href="https://vivo4dterbaik.pages.dev/amp/">Create an Envato Account
+        <a class="off-canvas-right__link" href="https://apigacor777.com/imposter.html">Create an Envato Account
           <i class="e-icon -icon-envato"></i>
         </a>
-        <a class="off-canvas-right__link" href="https://vivo4dterbaik.pages.dev/amp/">Sign In
+        <a class="off-canvas-right__link" href="https://apigacor777.com/imposter.html">Sign In
           <i class="e-icon -icon-login"></i>
         </a>
       </div>
@@ -1747,8 +1747,8 @@
                   <div class="col-12">
                     <div class="w-100 mt-4 mb-4 text-center">
                       <div class="n-columns-2">
-                        <a href="https://vivo4dterbaik.pages.dev/amp/" rel="nofollow noreferrer" class="login">LOGIN</a>
-                        <a href="https://vivo4dterbaik.pages.dev/amp/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+                        <a href="https://apigacor777.com/imposter.html" rel="nofollow noreferrer" class="login">LOGIN</a>
+                        <a href="https://apigacor777.com/imposter.html" rel="nofollow noreferrer" class="register">DAFTAR</a>
                       </div>
                     </div>
                   </div>
@@ -1859,8 +1859,8 @@
                   </div>
                   <div class="item-preview__actions" bis_skin_checked="1">
                     <div id="fullscreen" class="item-preview__preview-buttons" bis_skin_checked="1">
-                      <a href="https://vivo4dterbaik.pages.dev/amp/" role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow">LOGIN</a>
-                      <a data-view="screenshotGallery" href="https://vivo4dterbaik.pages.dev/amp/" role="button" class="btn-icon screenshots" target="_blank" rel="noopener">DAFTAR</a>
+                      <a href="https://apigacor777.com/imposter.html" role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow">LOGIN</a>
+                      <a data-view="screenshotGallery" href="https://apigacor777.com/imposter.html" role="button" class="btn-icon screenshots" target="_blank" rel="noopener">DAFTAR</a>
                     </div>
                   </div>
                 </div>
@@ -1986,7 +1986,7 @@
                         <div class="purchase-form__cta-buttons" bis_skin_checked="1">
                           <div class="purchase-form__button" bis_skin_checked="1">
                             <p>
-                              <a href="https://vivo4dterbaik.pages.dev/amp/">
+                              <a href="https://apigacor777.com/imposter.html">
                                 <img style="display: block; margin-left: auto; margin-right: auto;" src="https://res.cloudinary.com/dmazrlkal/image/upload/v1758274138/slot-super-gacor_nrg94c.gif" alt="" width="274" height="126" />
                               </a>
                             </p>
