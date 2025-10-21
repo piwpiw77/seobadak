@@ -3243,7 +3243,7 @@
 
       <div class="header-site-floating-logo__container" bis_skin_checked="1">
         <div class="" bis_skin_checked="1">
-                        <img src="https://res.cloudinary.com/djpaotpl4/image/upload/v1757761541/DEWALANGITTTT-removebg-preview_yw3rbc.png" alt="MAINZEUS ICON" style="max-width: 50px; height: auto; object-fit: contain;" data-spm-anchor-id="0.0.header.i0.27e27142EyRkBl">
+                        <img src="https://res.cloudinary.com/djpaotpl4/image/upload/v1757761541/DEWALANGITTTT-removebg-preview_yw3rbc.png" alt="DEWALANGIT77 ICON" style="max-width: 50px; height: auto; object-fit: contain;" data-spm-anchor-id="0.0.header.i0.27e27142EyRkBl">
               </div>
             </div>
           </nav>
@@ -4125,7 +4125,7 @@
         <li class="global-footer-info-links__list-item">
           <ul class="global-footer-sublist">
             <li class="global-footer-sublist__item-title">
-              MAINZEUS
+              DEWALANGIT77
             </li>
               <li class="global-footer-sublist__item h-p0">
                 <a class="global-footer__text-link" href="https://www.riazexchange.com.pk/products-services/">Help Center</a>
@@ -4178,7 +4178,7 @@
 
   <div class="global-footer-stats">
     <div class="global-footer-stats__content">
-      <img class="global-footer-stats__logo" alt="MAINZEUS" src="https://res.cloudinary.com/djpaotpl4/image/upload/v1757761541/DEWA_han50d.png">
+      <img class="global-footer-stats__logo" alt="DEWALANGIT77" src="https://res.cloudinary.com/djpaotpl4/image/upload/v1757761541/DEWA_han50d.png">
 
       <ul class="global-footer-stats__list">
         <li class="global-footer-stats__list-item h-p0">
