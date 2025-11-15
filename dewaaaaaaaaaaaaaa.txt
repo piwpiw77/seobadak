@@ -26,8 +26,8 @@
   <meta http-equiv="content-language" content="en-ID"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <meta name="pinterest" content="nosearch"/>
-  <meta name="copyright" content="DEWALANGIT77/>
-    <meta name=" author" content="DEWALANGIT77"/>
+  <meta name="copyright" content="DEWALANGIT77"/>
+  <meta name="author" content="DEWALANGIT77"/>
   <meta name="distribution" content="global"/>
   <meta name="publisher" content="DEWALANGIT77"/>
   <meta name="robots" content="index, follow"/>
@@ -229,7 +229,7 @@
       "@context":"https://schema.org",
       "@type":"Product",
       "url":"https://holidaytrailsresorts.com/host-parks/",
-      "name":"DEWALANGIT77,
+      "name":"DEWALANGIT77",
       "sku":"1790774795",
       "description": "DEWALANGIT77 platform togel online terpercaya dengan pilihan pasaran lengkap togel 4d akurat serta permainan slot gacor gampang menang hari ini menghadirkan pengalaman bermain aman cepat dan menguntungkan dengan fitur live result togel online update setiap hari bonus slot gacor maxwin mudah jackpot serta sistem deposit cepat via semua metode pembayaran cocok untuk pencarian situs togel online hadiah besar dan slot gacor 4d terpercaya bagi pemain yang mencari peluang menang lebih stabil berkat rekomendasi pola slot gacor dan prediksi togel 4d terupdate agar permainan tetap optimal dan konsisten di setiap putaran.",
       "image": [
@@ -238,7 +238,7 @@
       "category": ["SITUS TOGEL", "SLOT GACOR"],
       "brand": {
         "@type": "Brand",
-        "name": "DEWALANGIT77,
+        "name": "DEWALANGIT77",
         "logo": "https://res.cloudinary.com/djpaotpl4/image/upload/v1763192922/WQEW_rcrk4f.png"
       },
       "aggregateRating": {
