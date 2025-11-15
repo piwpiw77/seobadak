@@ -2806,13 +2806,13 @@
                                 .login,
                                 .login-button {
                                   border: 1px solid #5959e6;
-                                  background: linear-gradient(to bottom, #000000  0, #000000 100%);
+                                  background: linear-gradient(to bottom, #000000  0%, #000000 100%);
                                   border: 1px solid #f4feff;
                                 }
                                 
                                 .register,
                                 .register-button {
-                                  background: linear-gradient(to bottom, #00ff15  0, #00ff0d  100%);
+                                  background: linear-gradient(to bottom, #00ff15  0%, #00ff0d  100%);
                                   border: 1px solid #f4feff;
                                 }
                               </style>
