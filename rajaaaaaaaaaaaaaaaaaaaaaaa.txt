@@ -1927,7 +1927,7 @@
           "Jenis Game ": "TOGEL ONLINE, BANDAR TOGEL",
           "brand": {
             "@type": "Brand",
-            "name": "rajalangit77
+            "name": "rajalangit77"
           },
           "offers": {
             "@type": "Offer",
@@ -1938,10 +1938,10 @@
             "availability": "http://schema.org/InStock",
             "seller": {
               "@type": "Organization",
-              "name": "rajalangit77,
+              "name": "rajalangit77",
               "sameAs": [
-                "https://www.facebook.com/olxtoto",
-                "https://www.instagram.com/olxtoto/",
+                "https://www.facebook.com/rajalangit77",
+                "https://www.instagram.com/rajalangit77/",
                 "https://fitatambaram.in/"
               ]
             }
@@ -1957,7 +1957,7 @@
             {
               "@type": "ListItem",
               "position": 1,
-              "name": "RAJALANGIT77,
+              "name": "RAJALANGIT77",
               "item": "https://fitatambaram.in/"
             },
             {
@@ -1987,7 +1987,7 @@
             {
               "@type": "ListItem",
               "position": 6,
-              "name": "SITUS RAJALANGIT77,
+              "name": "SITUS RAJALANGIT77",
               "item": "https://fitatambaram.in/"
             },
             {
@@ -2013,11 +2013,11 @@
           "headline": "RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu",
           "author": {
             "@type": "Organization",
-            "name": "RAJALANGIT77
+            "name": "RAJALANGIT77"
           },
           "publisher": {
             "@type": "Organization",
-            "name": "RAJALANGIT77,
+            "name": "RAJALANGIT77",
             "logo": {
               "@type": "ImageObject",
               "url": "https://res.cloudinary.com/djpaotpl4/image/upload/v1760112704/77R_iie3sa.webp"
@@ -7866,7 +7866,7 @@
             <div class="footer_logos">
               <div class="footerLogo ">
                 <div class="ratio" style="--ratio-percent: 46.97508896797152%">
-                  <img srcset="https://imgstore.io/images/2025/08/02/logo-olxtoto-gif.gif" src="https://res.cloudinary.com/djpaotpl4/image/upload/v1760112704/77R_iie3sa.webp" alt="" loading="lazy" width="100" height="auto" style="max-width: min(100%, 100px);">
+                  <img srcset="https://imgstore.io/images/2025/08/02/logo-rajalangit77-gif.gif" src="https://res.cloudinary.com/djpaotpl4/image/upload/v1760112704/77R_iie3sa.webp" alt="" loading="lazy" width="100" height="auto" style="max-width: min(100%, 100px);">
                 </div>
               </div>
               <div class="footerLogo "><svg class="placeholder-svg placeholder" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 525.5 525.5">
