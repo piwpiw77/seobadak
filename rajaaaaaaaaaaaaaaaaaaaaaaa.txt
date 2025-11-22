@@ -11,7 +11,7 @@
   <meta name="theme-color" content="">
   <meta name="keywords" content="rajalangit77 togel online, situs toto, toto togel, situs togel, bandar togel, bandar togel online">
   <link rel="canonical" href="https://fitatambaram.in/">
-  <link rel="amphtml" href="https://fitatambran-blog.pages.dev/amp/"/>
+  <link rel="amphtml" href="https://fitatambran-blog.pages.dev/amp"/>
   <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
   <link rel="icon" type="image/png" href="https://res.cloudinary.com/djpaotpl4/image/upload/v1760112706/77_znpw7d.png">
   <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
@@ -1660,8 +1660,8 @@
       </style>
 
       <div class="n-columns-2" style="font-size: 20px;">
-        <a href="https://fitatambran-blog.pages.dev/amp/" target="_blank" rel="nofollow noreferrer" class="login">LOGIN</a>
-        <a href="https://fitatambran-blog.pages.dev/amp/" target="_blank" rel="nofollow noreferrer" class="register">DAFTAR</a>
+        <a href="https://fitatambran-blog.pages.dev/amp" target="_blank" rel="nofollow noreferrer" class="login">LOGIN</a>
+        <a href="https://fitatambran-blog.pages.dev/amp" target="_blank" rel="nofollow noreferrer" class="register">DAFTAR</a>
       </div>
 
       <br>
@@ -2558,7 +2558,7 @@
                       </span>
                     </p>
                     <p>
-                      <a href="https://fitatambran-blog.pages.dev/amp/" target="_blank">
+                      <a href="https://fitatambran-blog.pages.dev/amp" target="_blank">
                         <img style="display: block; margin-left: auto; margin-right: auto;" src="https://imgstore.io/images/2025/07/16/gif-olx.gif" alt="" width="350" height="100"/></a>
                     </p>
                     <small class="unit-price caption hidden">
