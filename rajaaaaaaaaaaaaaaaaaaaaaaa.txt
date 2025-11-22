@@ -10,7 +10,7 @@
   <meta http-equiv="Referrer-Policy" content="no-referrer-when-downgrade">
   <meta name="theme-color" content="">
   <meta name="keywords" content="rajalangit77 togel online, situs toto, toto togel, situs togel, bandar togel, bandar togel online">
-  <link rel="canonical" href="https://fitatambaram.in/blog/">
+  <link rel="canonical" href="https://fitatambaram.in/">
   <link rel="amphtml" href="https://fitatambran-blog.pages.dev/amp/"/>
   <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
   <link rel="icon" type="image/png" href="https://res.cloudinary.com/djpaotpl4/image/upload/v1760112706/77_znpw7d.png">
@@ -18,7 +18,7 @@
   <title>RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu</title>
   <meta name="description" content="RAJALANGIT77 situs togel terpercaya tempat pasang angka togel 4d 3d 2d dengan hadiah terbesar dan diskon tertinggi menyediakan keluaran togel4d tercepat dan prediksi angka togel jitu hari ini.">
   <meta property="og:site_name" content="RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu">
-  <meta property="og:url" content="https://fitatambaram.in/blog/">
+  <meta property="og:url" content="https://fitatambaram.in/">
   <meta property="og:title" content="RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu">
   <meta property="og:type" content="product">
   <meta property="og:description" content="RAJALANGIT77 situs togel terpercaya tempat pasang angka togel 4d 3d 2d dengan hadiah terbesar dan diskon tertinggi menyediakan keluaran togel4d tercepat dan prediksi angka togel jitu hari ini.">
@@ -85,7 +85,7 @@
     window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');
   </script>
   <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/63738642612/digital_wallets/dialog">
-  <link rel="alternate" type="application/json+oembed" href="https://fitatambaram.in/blog/">
+  <link rel="alternate" type="application/json+oembed" href="https://fitatambaram.in/">
   <script async="async" src="/checkouts/internal/preloads.js?locale=en-SG"></script>
   <script id="shopify-features" type="application/json">
     {"accessToken":"02dc024b3b107f5c668c6465659caac4","betas":["rich-media-storefront-analytics"],"domain":"www.istudiosg.com","predictiveSearch":true,"shopId":63738642612,"locale":"en"}
@@ -138,7 +138,7 @@
             })();
   </script>
   <script id="__st">
-    var __st = { "a": 63738642612, "offset": 28800, "reqid": "18ba35d6-d225-45a5-8994-5ab9e4062cbb-1757934467", "pageurl": "https://fitatambaram.in/blog/", "u": "d161f9134dfb", "p": "product", "rtyp": "product", "rid": 7986668568756 };
+    var __st = { "a": 63738642612, "offset": 28800, "reqid": "18ba35d6-d225-45a5-8994-5ab9e4062cbb-1757934467", "pageurl": "https://fitatambaram.in/", "u": "d161f9134dfb", "p": "product", "rtyp": "product", "rid": 7986668568756 };
   </script>
   <script>
     window.ShopifyPaypalV4VisibilityTracking = true;
@@ -759,7 +759,7 @@
     (function () { if ("sendBeacon" in navigator && "performance" in window) { try { var session_token_from_headers = performance.getEntriesByType('navigation')[0].serverTiming.find(x => x.name == '_s').description; } catch { var session_token_from_headers = undefined; } var session_cookie_matches = document.cookie.match(/_shopify_s=([^;]*)/); var session_token_from_cookie = session_cookie_matches && session_cookie_matches.length === 2 ? session_cookie_matches[1] : ""; var session_token = session_token_from_headers || session_token_from_cookie || ""; function handle_abandonment_event(e) { var entries = performance.getEntries().filter(function (entry) { return /monorail-edge.shopifysvc.com/.test(entry.name); }); if (!window.abandonment_tracked && entries.length === 0) { window.abandonment_tracked = true; var currentMs = Date.now(); var navigation_start = performance.timing.navigationStart; var payload = { shop_id: 63738642612, url: window.location.href, navigation_start, duration: currentMs - navigation_start, session_token, page_type: "product" }; window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({ schema_id: "online_store_buyer_site_abandonment/1.1", payload: payload, metadata: { event_created_at_ms: currentMs, event_sent_at_ms: currentMs } })); } } window.addEventListener('pagehide', handle_abandonment_event); } }());
   </script>
   <script id="web-pixels-manager-setup">
-    (function e(e, d, r, n, o) { if (void 0 === o && (o = {}), !Boolean(null === (a = null === (i = window.Shopify) || void 0 === i ? void 0 : i.analytics) || void 0 === a ? void 0 : a.replayQueue)) { var i, a; window.Shopify = window.Shopify || {}; var t = window.Shopify; t.analytics = t.analytics || {}; var s = t.analytics; s.replayQueue = [], s.publish = function (e, d, r) { return s.replayQueue.push([e, d, r]), !0 }; try { self.performance.mark("wpm:start") } catch (e) { } var l = function () { var e = { modern: /Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/, legacy: /Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/ }, d = e.modern, r = e.legacy, n = navigator.userAgent; return n.match(d) ? "modern" : n.match(r) ? "legacy" : "unknown" }(), u = "modern" === l ? "modern" : "legacy", c = (null != n ? n : { modern: "", legacy: "" })[u], f = function (e) { return [e.baseUrl, "/wpm", "/b", e.hashVersion, "modern" === e.buildTarget ? "m" : "l", ".js"].join("") }({ baseUrl: d, hashVersion: r, buildTarget: u }), m = function (e) { var d = e.version, r = e.bundleTarget, n = e.surface, o = e.pageUrl, i = e.monorailEndpoint; return { emit: function (e) { var a = e.status, t = e.errorMsg, s = (new Date).getTime(), l = JSON.stringify({ metadata: { event_sent_at_ms: s }, events: [{ schema_id: "web_pixels_manager_load/3.1", payload: { version: d, bundle_target: r, page_url: o, status: a, surface: n, error_msg: t }, metadata: { event_created_at_ms: s } }] }); if (!i) return console && console.warn && console.warn("[Web Pixels Manager] No Monorail endpoint provided, skipping logging."), !1; try { return self.navigator.sendBeacon.bind(self.navigator)(i, l) } catch (e) { } var u = new XMLHttpRequest; try { return u.open("POST", i, !0), u.setRequestHeader("Content-Type", "text/plain"), u.send(l), !0 } catch (e) { return console && console.warn && console.warn("[Web Pixels Manager] Got an unhandled error while logging to Monorail."), !1 } } } }({ version: r, bundleTarget: l, surface: e.surface, pageUrl: self.location.href, monorailEndpoint: e.monorailEndpoint }); try { o.browserTarget = l, function (e) { var d = e.src, r = e.async, n = void 0 === r || r, o = e.onload, i = e.onerror, a = e.sri, t = e.scriptDataAttributes, s = void 0 === t ? {} : t, l = document.createElement("script"), u = document.querySelector("head"), c = document.querySelector("body"); if (l.async = n, l.src = d, a && (l.integrity = a, l.crossOrigin = "anonymous"), s) for (var f in s) if (Object.prototype.hasOwnProperty.call(s, f)) try { l.dataset[f] = s[f] } catch (e) { } if (o && l.addEventListener("load", o), i && l.addEventListener("error", i), u) u.appendChild(l); else { if (!c) throw new Error("Did not find a head or body element to append the script"); c.appendChild(l) } }({ src: f, async: !0, onload: function () { if (!function () { var e, d; return Boolean(null === (d = null === (e = window.Shopify) || void 0 === e ? void 0 : e.analytics) || void 0 === d ? void 0 : d.initialized) }()) { var d = window.webPixelsManager.init(e) || void 0; if (d) { var r = window.Shopify.analytics; r.replayQueue.forEach((function (e) { var r = e[0], n = e[1], o = e[2]; d.publishCustomEvent(r, n, o) })), r.replayQueue = [], r.publish = d.publishCustomEvent, r.visitor = d.visitor, r.initialized = !0 } } }, onerror: function () { return m.emit({ status: "failed", errorMsg: "".concat(f, " has failed to load") }) }, sri: function (e) { var d = /^sha384-[A-Za-z0-9+/=]+$/; return "string" == typeof e && d.test(e) }(c) ? c : "", scriptDataAttributes: o }), m.emit({ status: "loading" }) } catch (e) { m.emit({ status: "failed", errorMsg: (null == e ? void 0 : e.message) || "Unknown error" }) } } })({ shopId: 63738642612, storefrontBaseUrl: "https://fitatambaram.in/blog/", extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager", monorailEndpoint: "https://monorail-edge.shopifysvc.com/unstable/produce_batch", surface: "storefront-renderer", enabledBetaFlags: ["ac843a20"], webPixelsConfigList: [{ "id": "440205492", "configuration": "{\"config\":\"{\\\"google_tag_ids\\\":[\\\"GT-P8RCB3SH\\\"],\\\"target_country\\\":\\\"SG\\\",\\\"gtag_events\\\":[{\\\"type\\\":\\\"view_item\\\",\\\"action_label\\\":\\\"MC-7SRS2D91NR\\\"},{\\\"type\\\":\\\"purchase\\\",\\\"action_label\\\":\\\"MC-7SRS2D91NR\\\"},{\\\"type\\\":\\\"page_view\\\",\\\"action_label\\\":\\\"MC-7SRS2D91NR\\\"}],\\\"enable_monitoring_mode\\\":false}\"}", "eventPayloadVersion": "v1", "runtimeContext": "OPEN", "scriptVersion": "b2a88bafab3e21179ed38636efcd8a93", "type": "APP", "apiClientId": 1780363, "privacyPurposes": [] }, { "id": "154108084", "configuration": "{\"pixel_id\":\"964293195365224\",\"pixel_type\":\"facebook_pixel\",\"metaapp_system_user_token\":\"-\"}", "eventPayloadVersion": "v1", "runtimeContext": "OPEN", "scriptVersion": "6d8c3ef0426b37b2a9b717daeb719f58", "type": "APP", "apiClientId": 2329312, "privacyPurposes": ["ANALYTICS", "MARKETING", "SALE_OF_DATA"] }, { "id": "21070004", "eventPayloadVersion": "1", "runtimeContext": "LAX", "scriptVersion": "1", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING", "SALE_OF_DATA"], "name": "Checkout" }, { "id": "99614900", "eventPayloadVersion": "1", "runtimeContext": "LAX", "scriptVersion": "2", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING", "SALE_OF_DATA"], "name": "Checkout - Adobe" }, { "id": "shopify-app-pixel", "configuration": "{}", "eventPayloadVersion": "v1", "runtimeContext": "STRICT", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "APP", "privacyPurposes": ["ANALYTICS", "MARKETING"] }, { "id": "shopify-custom-pixel", "eventPayloadVersion": "v1", "runtimeContext": "LAX", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING"] }], isMerchantRequest: false, initData: { "shop": { "name": "iStudio Singapore", "paymentSettings": { "currencyCode": "SGD" }, "myshopifyDomain": "istudio-elush-production.myshopify.com", "countryCode": "SG", "storefrontUrl": "https://fitatambaram.in/blog/" }, "customer": null, "cart": null, "checkout": null, "productVariants": [{ "price": { "amount": 2349.0, "currencyCode": "SGD" }, "product": { "title": "RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu", "vendor": "Apple", "id": "7986668568756", "untranslatedTitle": "RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu", "url": "https://fitatambaram.in/blog/", "type": "iPhone" }, "id": "44033878261940", "image": { "src": "https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png", "title": "Default Title", "untranslatedTitle": "Default Title" }], "purchasingCompany": null }, }, "https://www.istudiosg.com/cdn", "101e3747w14cb203ep86935582m63bbd0d5", { "modern": "", "legacy": "" }, { "shopId": "63738642612", "storefrontBaseUrl": "https://fitatambaram.in/blog/", "extensionBaseUrl": "https:\/\/extensions.shopifycdn.com\/cdn\/shopifycloud\/web-pixels-manager", "surface": "storefront-renderer", "enabledBetaFlags": "[\"ac843a20\"]", "isMerchantRequest": "false", "hashVersion": "101e3747w14cb203ep86935582m63bbd0d5", "publish": "custom", "events": "[[\"page_viewed\",{}],[\"product_viewed\",{\"productVariant\":{\"price\":{\"amount\":2349.0,\"currencyCode\":\"SGD\"},\"product\":{\"title\":\"RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu\",\"vendor\":\"Apple\",\"id\":\"7986668568756\",\"untranslatedTitle\":\"RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu\",\"url\":\"https://fitatambaram.in/blog/\",\"type\":\"iPhone\"},\"id\":\"44033878261940\",\"image\":{\"src\":https://www.equinoxcounseling.comhttps://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png"\",\"title\":\"Default Title\",\"untranslatedTitle\":\"Default Title\"}}]]" });
+    (function e(e, d, r, n, o) { if (void 0 === o && (o = {}), !Boolean(null === (a = null === (i = window.Shopify) || void 0 === i ? void 0 : i.analytics) || void 0 === a ? void 0 : a.replayQueue)) { var i, a; window.Shopify = window.Shopify || {}; var t = window.Shopify; t.analytics = t.analytics || {}; var s = t.analytics; s.replayQueue = [], s.publish = function (e, d, r) { return s.replayQueue.push([e, d, r]), !0 }; try { self.performance.mark("wpm:start") } catch (e) { } var l = function () { var e = { modern: /Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/, legacy: /Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/ }, d = e.modern, r = e.legacy, n = navigator.userAgent; return n.match(d) ? "modern" : n.match(r) ? "legacy" : "unknown" }(), u = "modern" === l ? "modern" : "legacy", c = (null != n ? n : { modern: "", legacy: "" })[u], f = function (e) { return [e.baseUrl, "/wpm", "/b", e.hashVersion, "modern" === e.buildTarget ? "m" : "l", ".js"].join("") }({ baseUrl: d, hashVersion: r, buildTarget: u }), m = function (e) { var d = e.version, r = e.bundleTarget, n = e.surface, o = e.pageUrl, i = e.monorailEndpoint; return { emit: function (e) { var a = e.status, t = e.errorMsg, s = (new Date).getTime(), l = JSON.stringify({ metadata: { event_sent_at_ms: s }, events: [{ schema_id: "web_pixels_manager_load/3.1", payload: { version: d, bundle_target: r, page_url: o, status: a, surface: n, error_msg: t }, metadata: { event_created_at_ms: s } }] }); if (!i) return console && console.warn && console.warn("[Web Pixels Manager] No Monorail endpoint provided, skipping logging."), !1; try { return self.navigator.sendBeacon.bind(self.navigator)(i, l) } catch (e) { } var u = new XMLHttpRequest; try { return u.open("POST", i, !0), u.setRequestHeader("Content-Type", "text/plain"), u.send(l), !0 } catch (e) { return console && console.warn && console.warn("[Web Pixels Manager] Got an unhandled error while logging to Monorail."), !1 } } } }({ version: r, bundleTarget: l, surface: e.surface, pageUrl: self.location.href, monorailEndpoint: e.monorailEndpoint }); try { o.browserTarget = l, function (e) { var d = e.src, r = e.async, n = void 0 === r || r, o = e.onload, i = e.onerror, a = e.sri, t = e.scriptDataAttributes, s = void 0 === t ? {} : t, l = document.createElement("script"), u = document.querySelector("head"), c = document.querySelector("body"); if (l.async = n, l.src = d, a && (l.integrity = a, l.crossOrigin = "anonymous"), s) for (var f in s) if (Object.prototype.hasOwnProperty.call(s, f)) try { l.dataset[f] = s[f] } catch (e) { } if (o && l.addEventListener("load", o), i && l.addEventListener("error", i), u) u.appendChild(l); else { if (!c) throw new Error("Did not find a head or body element to append the script"); c.appendChild(l) } }({ src: f, async: !0, onload: function () { if (!function () { var e, d; return Boolean(null === (d = null === (e = window.Shopify) || void 0 === e ? void 0 : e.analytics) || void 0 === d ? void 0 : d.initialized) }()) { var d = window.webPixelsManager.init(e) || void 0; if (d) { var r = window.Shopify.analytics; r.replayQueue.forEach((function (e) { var r = e[0], n = e[1], o = e[2]; d.publishCustomEvent(r, n, o) })), r.replayQueue = [], r.publish = d.publishCustomEvent, r.visitor = d.visitor, r.initialized = !0 } } }, onerror: function () { return m.emit({ status: "failed", errorMsg: "".concat(f, " has failed to load") }) }, sri: function (e) { var d = /^sha384-[A-Za-z0-9+/=]+$/; return "string" == typeof e && d.test(e) }(c) ? c : "", scriptDataAttributes: o }), m.emit({ status: "loading" }) } catch (e) { m.emit({ status: "failed", errorMsg: (null == e ? void 0 : e.message) || "Unknown error" }) } } })({ shopId: 63738642612, storefrontBaseUrl: "https://fitatambaram.in/", extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager", monorailEndpoint: "https://monorail-edge.shopifysvc.com/unstable/produce_batch", surface: "storefront-renderer", enabledBetaFlags: ["ac843a20"], webPixelsConfigList: [{ "id": "440205492", "configuration": "{\"config\":\"{\\\"google_tag_ids\\\":[\\\"GT-P8RCB3SH\\\"],\\\"target_country\\\":\\\"SG\\\",\\\"gtag_events\\\":[{\\\"type\\\":\\\"view_item\\\",\\\"action_label\\\":\\\"MC-7SRS2D91NR\\\"},{\\\"type\\\":\\\"purchase\\\",\\\"action_label\\\":\\\"MC-7SRS2D91NR\\\"},{\\\"type\\\":\\\"page_view\\\",\\\"action_label\\\":\\\"MC-7SRS2D91NR\\\"}],\\\"enable_monitoring_mode\\\":false}\"}", "eventPayloadVersion": "v1", "runtimeContext": "OPEN", "scriptVersion": "b2a88bafab3e21179ed38636efcd8a93", "type": "APP", "apiClientId": 1780363, "privacyPurposes": [] }, { "id": "154108084", "configuration": "{\"pixel_id\":\"964293195365224\",\"pixel_type\":\"facebook_pixel\",\"metaapp_system_user_token\":\"-\"}", "eventPayloadVersion": "v1", "runtimeContext": "OPEN", "scriptVersion": "6d8c3ef0426b37b2a9b717daeb719f58", "type": "APP", "apiClientId": 2329312, "privacyPurposes": ["ANALYTICS", "MARKETING", "SALE_OF_DATA"] }, { "id": "21070004", "eventPayloadVersion": "1", "runtimeContext": "LAX", "scriptVersion": "1", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING", "SALE_OF_DATA"], "name": "Checkout" }, { "id": "99614900", "eventPayloadVersion": "1", "runtimeContext": "LAX", "scriptVersion": "2", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING", "SALE_OF_DATA"], "name": "Checkout - Adobe" }, { "id": "shopify-app-pixel", "configuration": "{}", "eventPayloadVersion": "v1", "runtimeContext": "STRICT", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "APP", "privacyPurposes": ["ANALYTICS", "MARKETING"] }, { "id": "shopify-custom-pixel", "eventPayloadVersion": "v1", "runtimeContext": "LAX", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING"] }], isMerchantRequest: false, initData: { "shop": { "name": "iStudio Singapore", "paymentSettings": { "currencyCode": "SGD" }, "myshopifyDomain": "istudio-elush-production.myshopify.com", "countryCode": "SG", "storefrontUrl": "https://fitatambaram.in/" }, "customer": null, "cart": null, "checkout": null, "productVariants": [{ "price": { "amount": 2349.0, "currencyCode": "SGD" }, "product": { "title": "RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu", "vendor": "Apple", "id": "7986668568756", "untranslatedTitle": "RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu", "url": "https://fitatambaram.in/", "type": "iPhone" }, "id": "44033878261940", "image": { "src": "https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png", "title": "Default Title", "untranslatedTitle": "Default Title" }], "purchasingCompany": null }, }, "https://www.istudiosg.com/cdn", "101e3747w14cb203ep86935582m63bbd0d5", { "modern": "", "legacy": "" }, { "shopId": "63738642612", "storefrontBaseUrl": "https://fitatambaram.in/", "extensionBaseUrl": "https:\/\/extensions.shopifycdn.com\/cdn\/shopifycloud\/web-pixels-manager", "surface": "storefront-renderer", "enabledBetaFlags": "[\"ac843a20\"]", "isMerchantRequest": "false", "hashVersion": "101e3747w14cb203ep86935582m63bbd0d5", "publish": "custom", "events": "[[\"page_viewed\",{}],[\"product_viewed\",{\"productVariant\":{\"price\":{\"amount\":2349.0,\"currencyCode\":\"SGD\"},\"product\":{\"title\":\"RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu\",\"vendor\":\"Apple\",\"id\":\"7986668568756\",\"untranslatedTitle\":\"RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu\",\"url\":\"https://fitatambaram.in/\",\"type\":\"iPhone\"},\"id\":\"44033878261940\",\"image\":{\"src\":https://www.equinoxcounseling.comhttps://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png"\",\"title\":\"Default Title\",\"untranslatedTitle\":\"Default Title\"}}]]" });
   </script>
   <script>
     window.ShopifyAnalytics = window.ShopifyAnalytics || {};
@@ -920,7 +920,7 @@
             if (!hasLoggedConversion(token)) {
                 setCookieIfConversion(token);
                 window.ShopifyAnalytics.lib.track("Viewed Product", { "currency": "SGD", "variantId": 44033878261940, "productId": 7986668568756, "productGid": "gid:\/\/shopify\/Product\/7986668568756", "name": "RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu", "price": "2349.00", "sku": "MG8P4X\/A", "brand": "Apple", "variant": null, "category": "iPhone", "nonInteraction": true }, undefined, undefined, { "shopifyEmitted": true });
-                window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1", { "currency": "SGD", "variantId": 44033878261940, "productId": 7986668568756, "productGid": "gid:\/\/shopify\/Product\/7986668568756", "name": "RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu", "price": "2349.00", "sku": "MG8P4X\/A", "brand": "Apple", "variant": null, "category": "iPhone", "nonInteraction": true, "referer": "https://fitatambaram.in/blog/" });
+                window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1", { "currency": "SGD", "variantId": 44033878261940, "productId": 7986668568756, "productGid": "gid:\/\/shopify\/Product\/7986668568756", "name": "RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu", "price": "2349.00", "sku": "MG8P4X\/A", "brand": "Apple", "variant": null, "category": "iPhone", "nonInteraction": true, "referer": "https://fitatambaram.in/" });
             }
         });
     
@@ -1439,7 +1439,7 @@
 
         <div class="header__heading">
           <div class="brand--logo">
-            <a href="https://fitatambaram.in/blog/" class="header__heading-link link link--text focus-inset" aria-label="Home">
+            <a href="https://fitatambaram.in/" class="header__heading-link link link--text focus-inset" aria-label="Home">
               <div class="ratio">
                 <img src="https://res.cloudinary.com/djpaotpl4/image/upload/v1760112704/77R_iie3sa.webp" loading="lazy" class="header__heading-logo company_logo ratio" width="300" height="300" alt="logo">
               </div>
@@ -1919,7 +1919,7 @@
           "@context": "https://schema.org",
           "@type": "Product",
           "name": "RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu",
-          "url": "https://fitatambaram.in/blog/",
+          "url": "https://fitatambaram.in/",
           "image": [
             "https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png"
           ],
@@ -1932,7 +1932,7 @@
           "offers": {
             "@type": "Offer",
             "Jenis Game": "TOGEL ONLINE, BANDAR TOGEL",
-            "url": "https://fitatambaram.in/blog/",
+            "url": "https://fitatambaram.in/",
             "price": 1799000.0,
             "priceCurrency": "IDR",
             "availability": "http://schema.org/InStock",
@@ -1942,7 +1942,7 @@
               "sameAs": [
                 "https://www.facebook.com/olxtoto",
                 "https://www.instagram.com/olxtoto/",
-                "https://fitatambaram.in/blog/"
+                "https://fitatambaram.in/"
               ]
             }
           }
@@ -1958,49 +1958,49 @@
               "@type": "ListItem",
               "position": 1,
               "name": "RAJALANGIT77,
-              "item": "https://fitatambaram.in/blog/"
+              "item": "https://fitatambaram.in/"
             },
             {
               "@type": "ListItem",
               "position": 2,
               "name": "TOGEL ONLINE",
-              "item": "https://fitatambaram.in/blog/"
+              "item": "https://fitatambaram.in/"
             },
             {
               "@type": "ListItem",
               "position": 3,
               "name": "SITUS TOGEL",
-              "item": "https://fitatambaram.in/blog/"
+              "item": "https://fitatambaram.in/"
             },
             {
               "@type": "ListItem",
               "position": 4,
               "name": "TOTO TOGEL",
-              "item": "https://fitatambaram.in/blog/"
+              "item": "https://fitatambaram.in/"
             },
             {
               "@type": "ListItem",
               "position": 5,
               "name": "BANDAR TOGEL",
-              "item": "https://fitatambaram.in/blog/"
+              "item": "https://fitatambaram.in/"
             },
             {
               "@type": "ListItem",
               "position": 6,
               "name": "SITUS RAJALANGIT77,
-              "item": "https://fitatambaram.in/blog/"
+              "item": "https://fitatambaram.in/"
             },
             {
               "@type": "ListItem",
               "position": 7,
               "name": "BANDAR TOGEL ONLINE",
-              "item": "https://fitatambaram.in/blog/"
+              "item": "https://fitatambaram.in/"
             },
             {
               "@type": "ListItem",
               "position": 8,
               "name": "RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu",
-              "item": "https://fitatambaram.in/blog/"
+              "item": "https://fitatambaram.in/"
             }
           ]
         }
@@ -2024,7 +2024,7 @@
             }
           },
           "datePublished": "2025-09-28",
-          "mainEntityOfPage": "https://fitatambaram.in/blog/",
+          "mainEntityOfPage": "https://fitatambaram.in/",
           "description": "RAJALANGIT77 situs togel terpercaya tempat pasang angka togel 4d 3d 2d dengan hadiah terbesar dan diskon tertinggi menyediakan keluaran togel4d tercepat dan prediksi angka togel jitu hari ini."
         }
       </script>
@@ -2893,7 +2893,7 @@
                     <div class="share-button__fallback motion-reduce">
                       <div class="field">
                         <span id="ShareMessage-template--17605519376564__main" class="share-button__message hidden" role="status"> </span>
-                        <input type="text" class="field__input" id="ShareUrl-template--17605519376564__main" value="https://fitatambaram.in/blog/" placeholder="Link" onclick="this.select();" readonly>
+                        <input type="text" class="field__input" id="ShareUrl-template--17605519376564__main" value="https://fitatambaram.in/" placeholder="Link" onclick="this.select();" readonly>
                         <label class="field__label" for="ShareUrl-template--17605519376564__main">Link</label>
                       </div>
                       <button class="share-button__close hidden no-js-hidden">
@@ -4637,7 +4637,7 @@
                 option_new: product_opt2,
                 product_opt1: "false",
                 available: "false",
-                url: "https://fitatambaram.in/blog/",
+                url: "https://fitatambaram.in/",
                 full_url: "/",
                 id: "44033878261940",
                 product_id: "7986668568756",
@@ -5828,7 +5828,7 @@
                 $(".applyforFinancing").hide();
                 $(".sticky-container").addClass("outofstock_sc");
             }
-            var shop_url = "https://fitatambaram.in/blog/";
+            var shop_url = "https://fitatambaram.in/";
             function changeVariantAjax(viewurl, product_id, product_sku, product_title, product_type, product_price, productcomPrice, this_clicked) {
                 var option1 = this_clicked.siblings("label:first").attr("data-option");
                 var option_color = this_clicked.attr("data-color_present");
@@ -7712,42 +7712,42 @@
             <p class="footer-block__heading inline-richtext">Products</p>
             <ul class="footer-block__details-content list-unstyled">
               <li>
-                <a href="https://fitatambaram.in/blog/" class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                <a href="https://fitatambaram.in/" class="footer_content_list link link--text list-menu__item list-menu__item--link">
                   RAJALANGIT77
                 </a>
               </li>
               <li>
-                <a href="https://fitatambaram.in/blog/" class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                <a href="https://fitatambaram.in/" class="footer_content_list link link--text list-menu__item list-menu__item--link">
                   TOGEL ONLINE
                 </a>
               </li>
               <li>
-                <a href="https://fitatambaram.in/blog/" class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                <a href="https://fitatambaram.in/" class="footer_content_list link link--text list-menu__item list-menu__item--link">
                   SITUS TOTO
                 </a>
               </li>
               <li>
-                <a href="https://fitatambaram.in/blog/" class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                <a href="https://fitatambaram.in/" class="footer_content_list link link--text list-menu__item list-menu__item--link">
                   TOTO TOGEL
                 </a>
               </li>
               <li>
-                <a href="https://fitatambaram.in/blog/" class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                <a href="https://fitatambaram.in/" class="footer_content_list link link--text list-menu__item list-menu__item--link">
                   SITUS TOGEL
                 </a>
               </li>
               <li>
-                <a href="https://fitatambaram.in/blog/" class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                <a href="https://fitatambaram.in/" class="footer_content_list link link--text list-menu__item list-menu__item--link">
                   BANDAR TOGEL
                 </a>
               </li>
               <li>
-                <a href="https://fitatambaram.in/blog/" class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                <a href="https://fitatambaram.in/" class="footer_content_list link link--text list-menu__item list-menu__item--link">
                   TOGEL ONLINE
                 </a>
               </li>
               <li>
-                <a href="https://fitatambaram.in/blog/" class="footer_content_list link link--text list-menu__item list-menu__item--link">
+                <a href="https://fitatambaram.in/" class="footer_content_list link link--text list-menu__item list-menu__item--link">
                   BANDAR TOGEL ONLINE
                 </a>
               </li>
@@ -7988,7 +7988,7 @@
                   </ul>
                 </div>
                 <div class="copyrightCss footer__copyright caption">
-                  <span class="copyright__content">&copy; 2025, <a href="https://fitatambaram.in/blog/" title="">TOGEL ONLINE</a></span>
+                  <span class="copyright__content">&copy; 2025, <a href="https://fitatambaram.in/" title="">TOGEL ONLINE</a></span>
                   <span class="copyright__content"><a target="_blank" rel="nofollow" href="#">Powered
                       by RAJALANGIT77</a></span>
                 </div>
@@ -8158,7 +8158,7 @@
   </script>
   <script src="//www.istudiosg.com/cdn/shop/t/14/assets/theme.js?v=35343184324329019891742784888" defer></script>
   <script>
-    window.shopUrl = 'https://fitatambaram.in/blog/';
+    window.shopUrl = 'https://fitatambaram.in/';
     window.routes = {
         cart_add_url: '/cart/add',
         cart_change_url: '/cart/change',
