@@ -9,28 +9,28 @@
   <meta name="referrer" content="no-referrer-when-downgrade">
   <meta http-equiv="Referrer-Policy" content="no-referrer-when-downgrade">
   <meta name="theme-color" content="">
-  <meta name="keywords" content="rajalangit77 togel online, situs toto, toto togel, situs togel, bandar togel, bandar togel online">
+  <meta name="keywords" content="DEWALANGIT77 togel online, situs toto, toto togel, situs togel, bandar togel, bandar togel online">
   <link rel="canonical" href="https://fitatambaram.in/">
   <link rel="amphtml" href="https://fitatambran-blog.pages.dev/amp"/>
   <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
-  <link rel="icon" type="image/png" href="https://res.cloudinary.com/djpaotpl4/image/upload/v1760112706/77_znpw7d.png">
+  <link rel="icon" type="image/png" href="https://res.cloudinary.com/djpaotpl4/image/upload/v1757761541/DEWALANGITTTT-removebg-preview_yw3rbc.png">
   <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
-  <title>RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu</title>
-  <meta name="description" content="RAJALANGIT77 situs togel terpercaya tempat pasang angka togel 4d 3d 2d dengan hadiah terbesar dan diskon tertinggi menyediakan keluaran togel4d tercepat dan prediksi angka togel jitu hari ini.">
-  <meta property="og:site_name" content="RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu">
+  <title>DEWALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu</title>
+  <meta name="description" content="DEWALANGIT77 situs togel terpercaya tempat pasang angka togel 4d 3d 2d dengan hadiah terbesar dan diskon tertinggi menyediakan keluaran togel4d tercepat dan prediksi angka togel jitu hari ini.">
+  <meta property="og:site_name" content="DEWALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu">
   <meta property="og:url" content="https://fitatambaram.in/">
-  <meta property="og:title" content="RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu">
+  <meta property="og:title" content="DEWALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu">
   <meta property="og:type" content="product">
-  <meta property="og:description" content="RAJALANGIT77 situs togel terpercaya tempat pasang angka togel 4d 3d 2d dengan hadiah terbesar dan diskon tertinggi menyediakan keluaran togel4d tercepat dan prediksi angka togel jitu hari ini.">
-  <meta property="og:image" content="https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png">
-  <meta property="og:image:secure_url" content="https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png">
+  <meta property="og:description" content="DEWALANGIT77 situs togel terpercaya tempat pasang angka togel 4d 3d 2d dengan hadiah terbesar dan diskon tertinggi menyediakan keluaran togel4d tercepat dan prediksi angka togel jitu hari ini.">
+  <meta property="og:image" content="https://res.cloudinary.com/djpaotpl4/image/upload/v1764146206/AWA_gd5wo0.png">
+  <meta property="og:image:secure_url" content="https://res.cloudinary.com/djpaotpl4/image/upload/v1764146206/AWA_gd5wo0.png">
   <meta property="og:image:width" content="1260">
   <meta property="og:image:height" content="1260">
   <meta property="og:price:amount" content="10">
   <meta property="og:price:currency" content="SGD">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu">
-  <meta name="twitter:description" content="RAJALANGIT77 situs togel terpercaya tempat pasang angka togel 4d 3d 2d dengan hadiah terbesar dan diskon tertinggi menyediakan keluaran togel4d tercepat dan prediksi angka togel jitu hari ini.">
+  <meta name="twitter:title" content="DEWALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu">
+  <meta name="twitter:description" content="DEWALANGIT77 situs togel terpercaya tempat pasang angka togel 4d 3d 2d dengan hadiah terbesar dan diskon tertinggi menyediakan keluaran togel4d tercepat dan prediksi angka togel jitu hari ini.">
 
   <script type="text/javascript" async="" src="//app.backinstock.org/widget/91512_1746008386.js?category=bis&amp;v=6&amp;shop=istudio-elush-production.myshopify.com"></script>
   <script type="text/javascript" async="" src="//www.istudiosg.com/cdn/s/trekkie.storefront.5a4f78eb26ea594ba1b5d72f179d68114c7cf8ca.min.js"></script>
@@ -759,13 +759,13 @@
     (function () { if ("sendBeacon" in navigator && "performance" in window) { try { var session_token_from_headers = performance.getEntriesByType('navigation')[0].serverTiming.find(x => x.name == '_s').description; } catch { var session_token_from_headers = undefined; } var session_cookie_matches = document.cookie.match(/_shopify_s=([^;]*)/); var session_token_from_cookie = session_cookie_matches && session_cookie_matches.length === 2 ? session_cookie_matches[1] : ""; var session_token = session_token_from_headers || session_token_from_cookie || ""; function handle_abandonment_event(e) { var entries = performance.getEntries().filter(function (entry) { return /monorail-edge.shopifysvc.com/.test(entry.name); }); if (!window.abandonment_tracked && entries.length === 0) { window.abandonment_tracked = true; var currentMs = Date.now(); var navigation_start = performance.timing.navigationStart; var payload = { shop_id: 63738642612, url: window.location.href, navigation_start, duration: currentMs - navigation_start, session_token, page_type: "product" }; window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({ schema_id: "online_store_buyer_site_abandonment/1.1", payload: payload, metadata: { event_created_at_ms: currentMs, event_sent_at_ms: currentMs } })); } } window.addEventListener('pagehide', handle_abandonment_event); } }());
   </script>
   <script id="web-pixels-manager-setup">
-    (function e(e, d, r, n, o) { if (void 0 === o && (o = {}), !Boolean(null === (a = null === (i = window.Shopify) || void 0 === i ? void 0 : i.analytics) || void 0 === a ? void 0 : a.replayQueue)) { var i, a; window.Shopify = window.Shopify || {}; var t = window.Shopify; t.analytics = t.analytics || {}; var s = t.analytics; s.replayQueue = [], s.publish = function (e, d, r) { return s.replayQueue.push([e, d, r]), !0 }; try { self.performance.mark("wpm:start") } catch (e) { } var l = function () { var e = { modern: /Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/, legacy: /Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/ }, d = e.modern, r = e.legacy, n = navigator.userAgent; return n.match(d) ? "modern" : n.match(r) ? "legacy" : "unknown" }(), u = "modern" === l ? "modern" : "legacy", c = (null != n ? n : { modern: "", legacy: "" })[u], f = function (e) { return [e.baseUrl, "/wpm", "/b", e.hashVersion, "modern" === e.buildTarget ? "m" : "l", ".js"].join("") }({ baseUrl: d, hashVersion: r, buildTarget: u }), m = function (e) { var d = e.version, r = e.bundleTarget, n = e.surface, o = e.pageUrl, i = e.monorailEndpoint; return { emit: function (e) { var a = e.status, t = e.errorMsg, s = (new Date).getTime(), l = JSON.stringify({ metadata: { event_sent_at_ms: s }, events: [{ schema_id: "web_pixels_manager_load/3.1", payload: { version: d, bundle_target: r, page_url: o, status: a, surface: n, error_msg: t }, metadata: { event_created_at_ms: s } }] }); if (!i) return console && console.warn && console.warn("[Web Pixels Manager] No Monorail endpoint provided, skipping logging."), !1; try { return self.navigator.sendBeacon.bind(self.navigator)(i, l) } catch (e) { } var u = new XMLHttpRequest; try { return u.open("POST", i, !0), u.setRequestHeader("Content-Type", "text/plain"), u.send(l), !0 } catch (e) { return console && console.warn && console.warn("[Web Pixels Manager] Got an unhandled error while logging to Monorail."), !1 } } } }({ version: r, bundleTarget: l, surface: e.surface, pageUrl: self.location.href, monorailEndpoint: e.monorailEndpoint }); try { o.browserTarget = l, function (e) { var d = e.src, r = e.async, n = void 0 === r || r, o = e.onload, i = e.onerror, a = e.sri, t = e.scriptDataAttributes, s = void 0 === t ? {} : t, l = document.createElement("script"), u = document.querySelector("head"), c = document.querySelector("body"); if (l.async = n, l.src = d, a && (l.integrity = a, l.crossOrigin = "anonymous"), s) for (var f in s) if (Object.prototype.hasOwnProperty.call(s, f)) try { l.dataset[f] = s[f] } catch (e) { } if (o && l.addEventListener("load", o), i && l.addEventListener("error", i), u) u.appendChild(l); else { if (!c) throw new Error("Did not find a head or body element to append the script"); c.appendChild(l) } }({ src: f, async: !0, onload: function () { if (!function () { var e, d; return Boolean(null === (d = null === (e = window.Shopify) || void 0 === e ? void 0 : e.analytics) || void 0 === d ? void 0 : d.initialized) }()) { var d = window.webPixelsManager.init(e) || void 0; if (d) { var r = window.Shopify.analytics; r.replayQueue.forEach((function (e) { var r = e[0], n = e[1], o = e[2]; d.publishCustomEvent(r, n, o) })), r.replayQueue = [], r.publish = d.publishCustomEvent, r.visitor = d.visitor, r.initialized = !0 } } }, onerror: function () { return m.emit({ status: "failed", errorMsg: "".concat(f, " has failed to load") }) }, sri: function (e) { var d = /^sha384-[A-Za-z0-9+/=]+$/; return "string" == typeof e && d.test(e) }(c) ? c : "", scriptDataAttributes: o }), m.emit({ status: "loading" }) } catch (e) { m.emit({ status: "failed", errorMsg: (null == e ? void 0 : e.message) || "Unknown error" }) } } })({ shopId: 63738642612, storefrontBaseUrl: "https://fitatambaram.in/", extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager", monorailEndpoint: "https://monorail-edge.shopifysvc.com/unstable/produce_batch", surface: "storefront-renderer", enabledBetaFlags: ["ac843a20"], webPixelsConfigList: [{ "id": "440205492", "configuration": "{\"config\":\"{\\\"google_tag_ids\\\":[\\\"GT-P8RCB3SH\\\"],\\\"target_country\\\":\\\"SG\\\",\\\"gtag_events\\\":[{\\\"type\\\":\\\"view_item\\\",\\\"action_label\\\":\\\"MC-7SRS2D91NR\\\"},{\\\"type\\\":\\\"purchase\\\",\\\"action_label\\\":\\\"MC-7SRS2D91NR\\\"},{\\\"type\\\":\\\"page_view\\\",\\\"action_label\\\":\\\"MC-7SRS2D91NR\\\"}],\\\"enable_monitoring_mode\\\":false}\"}", "eventPayloadVersion": "v1", "runtimeContext": "OPEN", "scriptVersion": "b2a88bafab3e21179ed38636efcd8a93", "type": "APP", "apiClientId": 1780363, "privacyPurposes": [] }, { "id": "154108084", "configuration": "{\"pixel_id\":\"964293195365224\",\"pixel_type\":\"facebook_pixel\",\"metaapp_system_user_token\":\"-\"}", "eventPayloadVersion": "v1", "runtimeContext": "OPEN", "scriptVersion": "6d8c3ef0426b37b2a9b717daeb719f58", "type": "APP", "apiClientId": 2329312, "privacyPurposes": ["ANALYTICS", "MARKETING", "SALE_OF_DATA"] }, { "id": "21070004", "eventPayloadVersion": "1", "runtimeContext": "LAX", "scriptVersion": "1", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING", "SALE_OF_DATA"], "name": "Checkout" }, { "id": "99614900", "eventPayloadVersion": "1", "runtimeContext": "LAX", "scriptVersion": "2", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING", "SALE_OF_DATA"], "name": "Checkout - Adobe" }, { "id": "shopify-app-pixel", "configuration": "{}", "eventPayloadVersion": "v1", "runtimeContext": "STRICT", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "APP", "privacyPurposes": ["ANALYTICS", "MARKETING"] }, { "id": "shopify-custom-pixel", "eventPayloadVersion": "v1", "runtimeContext": "LAX", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING"] }], isMerchantRequest: false, initData: { "shop": { "name": "iStudio Singapore", "paymentSettings": { "currencyCode": "SGD" }, "myshopifyDomain": "istudio-elush-production.myshopify.com", "countryCode": "SG", "storefrontUrl": "https://fitatambaram.in/" }, "customer": null, "cart": null, "checkout": null, "productVariants": [{ "price": { "amount": 2349.0, "currencyCode": "SGD" }, "product": { "title": "RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu", "vendor": "Apple", "id": "7986668568756", "untranslatedTitle": "RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu", "url": "https://fitatambaram.in/", "type": "iPhone" }, "id": "44033878261940", "image": { "src": "https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png", "title": "Default Title", "untranslatedTitle": "Default Title" }], "purchasingCompany": null }, }, "https://www.istudiosg.com/cdn", "101e3747w14cb203ep86935582m63bbd0d5", { "modern": "", "legacy": "" }, { "shopId": "63738642612", "storefrontBaseUrl": "https://fitatambaram.in/", "extensionBaseUrl": "https:\/\/extensions.shopifycdn.com\/cdn\/shopifycloud\/web-pixels-manager", "surface": "storefront-renderer", "enabledBetaFlags": "[\"ac843a20\"]", "isMerchantRequest": "false", "hashVersion": "101e3747w14cb203ep86935582m63bbd0d5", "publish": "custom", "events": "[[\"page_viewed\",{}],[\"product_viewed\",{\"productVariant\":{\"price\":{\"amount\":2349.0,\"currencyCode\":\"SGD\"},\"product\":{\"title\":\"RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu\",\"vendor\":\"Apple\",\"id\":\"7986668568756\",\"untranslatedTitle\":\"RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu\",\"url\":\"https://fitatambaram.in/\",\"type\":\"iPhone\"},\"id\":\"44033878261940\",\"image\":{\"src\":https://www.equinoxcounseling.comhttps://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png"\",\"title\":\"Default Title\",\"untranslatedTitle\":\"Default Title\"}}]]" });
+    (function e(e, d, r, n, o) { if (void 0 === o && (o = {}), !Boolean(null === (a = null === (i = window.Shopify) || void 0 === i ? void 0 : i.analytics) || void 0 === a ? void 0 : a.replayQueue)) { var i, a; window.Shopify = window.Shopify || {}; var t = window.Shopify; t.analytics = t.analytics || {}; var s = t.analytics; s.replayQueue = [], s.publish = function (e, d, r) { return s.replayQueue.push([e, d, r]), !0 }; try { self.performance.mark("wpm:start") } catch (e) { } var l = function () { var e = { modern: /Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/, legacy: /Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/ }, d = e.modern, r = e.legacy, n = navigator.userAgent; return n.match(d) ? "modern" : n.match(r) ? "legacy" : "unknown" }(), u = "modern" === l ? "modern" : "legacy", c = (null != n ? n : { modern: "", legacy: "" })[u], f = function (e) { return [e.baseUrl, "/wpm", "/b", e.hashVersion, "modern" === e.buildTarget ? "m" : "l", ".js"].join("") }({ baseUrl: d, hashVersion: r, buildTarget: u }), m = function (e) { var d = e.version, r = e.bundleTarget, n = e.surface, o = e.pageUrl, i = e.monorailEndpoint; return { emit: function (e) { var a = e.status, t = e.errorMsg, s = (new Date).getTime(), l = JSON.stringify({ metadata: { event_sent_at_ms: s }, events: [{ schema_id: "web_pixels_manager_load/3.1", payload: { version: d, bundle_target: r, page_url: o, status: a, surface: n, error_msg: t }, metadata: { event_created_at_ms: s } }] }); if (!i) return console && console.warn && console.warn("[Web Pixels Manager] No Monorail endpoint provided, skipping logging."), !1; try { return self.navigator.sendBeacon.bind(self.navigator)(i, l) } catch (e) { } var u = new XMLHttpRequest; try { return u.open("POST", i, !0), u.setRequestHeader("Content-Type", "text/plain"), u.send(l), !0 } catch (e) { return console && console.warn && console.warn("[Web Pixels Manager] Got an unhandled error while logging to Monorail."), !1 } } } }({ version: r, bundleTarget: l, surface: e.surface, pageUrl: self.location.href, monorailEndpoint: e.monorailEndpoint }); try { o.browserTarget = l, function (e) { var d = e.src, r = e.async, n = void 0 === r || r, o = e.onload, i = e.onerror, a = e.sri, t = e.scriptDataAttributes, s = void 0 === t ? {} : t, l = document.createElement("script"), u = document.querySelector("head"), c = document.querySelector("body"); if (l.async = n, l.src = d, a && (l.integrity = a, l.crossOrigin = "anonymous"), s) for (var f in s) if (Object.prototype.hasOwnProperty.call(s, f)) try { l.dataset[f] = s[f] } catch (e) { } if (o && l.addEventListener("load", o), i && l.addEventListener("error", i), u) u.appendChild(l); else { if (!c) throw new Error("Did not find a head or body element to append the script"); c.appendChild(l) } }({ src: f, async: !0, onload: function () { if (!function () { var e, d; return Boolean(null === (d = null === (e = window.Shopify) || void 0 === e ? void 0 : e.analytics) || void 0 === d ? void 0 : d.initialized) }()) { var d = window.webPixelsManager.init(e) || void 0; if (d) { var r = window.Shopify.analytics; r.replayQueue.forEach((function (e) { var r = e[0], n = e[1], o = e[2]; d.publishCustomEvent(r, n, o) })), r.replayQueue = [], r.publish = d.publishCustomEvent, r.visitor = d.visitor, r.initialized = !0 } } }, onerror: function () { return m.emit({ status: "failed", errorMsg: "".concat(f, " has failed to load") }) }, sri: function (e) { var d = /^sha384-[A-Za-z0-9+/=]+$/; return "string" == typeof e && d.test(e) }(c) ? c : "", scriptDataAttributes: o }), m.emit({ status: "loading" }) } catch (e) { m.emit({ status: "failed", errorMsg: (null == e ? void 0 : e.message) || "Unknown error" }) } } })({ shopId: 63738642612, storefrontBaseUrl: "https://fitatambaram.in/", extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager", monorailEndpoint: "https://monorail-edge.shopifysvc.com/unstable/produce_batch", surface: "storefront-renderer", enabledBetaFlags: ["ac843a20"], webPixelsConfigList: [{ "id": "440205492", "configuration": "{\"config\":\"{\\\"google_tag_ids\\\":[\\\"GT-P8RCB3SH\\\"],\\\"target_country\\\":\\\"SG\\\",\\\"gtag_events\\\":[{\\\"type\\\":\\\"view_item\\\",\\\"action_label\\\":\\\"MC-7SRS2D91NR\\\"},{\\\"type\\\":\\\"purchase\\\",\\\"action_label\\\":\\\"MC-7SRS2D91NR\\\"},{\\\"type\\\":\\\"page_view\\\",\\\"action_label\\\":\\\"MC-7SRS2D91NR\\\"}],\\\"enable_monitoring_mode\\\":false}\"}", "eventPayloadVersion": "v1", "runtimeContext": "OPEN", "scriptVersion": "b2a88bafab3e21179ed38636efcd8a93", "type": "APP", "apiClientId": 1780363, "privacyPurposes": [] }, { "id": "154108084", "configuration": "{\"pixel_id\":\"964293195365224\",\"pixel_type\":\"facebook_pixel\",\"metaapp_system_user_token\":\"-\"}", "eventPayloadVersion": "v1", "runtimeContext": "OPEN", "scriptVersion": "6d8c3ef0426b37b2a9b717daeb719f58", "type": "APP", "apiClientId": 2329312, "privacyPurposes": ["ANALYTICS", "MARKETING", "SALE_OF_DATA"] }, { "id": "21070004", "eventPayloadVersion": "1", "runtimeContext": "LAX", "scriptVersion": "1", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING", "SALE_OF_DATA"], "name": "Checkout" }, { "id": "99614900", "eventPayloadVersion": "1", "runtimeContext": "LAX", "scriptVersion": "2", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING", "SALE_OF_DATA"], "name": "Checkout - Adobe" }, { "id": "shopify-app-pixel", "configuration": "{}", "eventPayloadVersion": "v1", "runtimeContext": "STRICT", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "APP", "privacyPurposes": ["ANALYTICS", "MARKETING"] }, { "id": "shopify-custom-pixel", "eventPayloadVersion": "v1", "runtimeContext": "LAX", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING"] }], isMerchantRequest: false, initData: { "shop": { "name": "iStudio Singapore", "paymentSettings": { "currencyCode": "SGD" }, "myshopifyDomain": "istudio-elush-production.myshopify.com", "countryCode": "SG", "storefrontUrl": "https://fitatambaram.in/" }, "customer": null, "cart": null, "checkout": null, "productVariants": [{ "price": { "amount": 2349.0, "currencyCode": "SGD" }, "product": { "title": "DEWALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu", "vendor": "Apple", "id": "7986668568756", "untranslatedTitle": "DEWALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu", "url": "https://fitatambaram.in/", "type": "iPhone" }, "id": "44033878261940", "image": { "src": "https://res.cloudinary.com/djpaotpl4/image/upload/v1764146206/AWA_gd5wo0.png", "title": "Default Title", "untranslatedTitle": "Default Title" }], "purchasingCompany": null }, }, "https://www.istudiosg.com/cdn", "101e3747w14cb203ep86935582m63bbd0d5", { "modern": "", "legacy": "" }, { "shopId": "63738642612", "storefrontBaseUrl": "https://fitatambaram.in/", "extensionBaseUrl": "https:\/\/extensions.shopifycdn.com\/cdn\/shopifycloud\/web-pixels-manager", "surface": "storefront-renderer", "enabledBetaFlags": "[\"ac843a20\"]", "isMerchantRequest": "false", "hashVersion": "101e3747w14cb203ep86935582m63bbd0d5", "publish": "custom", "events": "[[\"page_viewed\",{}],[\"product_viewed\",{\"productVariant\":{\"price\":{\"amount\":2349.0,\"currencyCode\":\"SGD\"},\"product\":{\"title\":\"DEWALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu\",\"vendor\":\"Apple\",\"id\":\"7986668568756\",\"untranslatedTitle\":\"DEWALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu\",\"url\":\"https://fitatambaram.in/\",\"type\":\"iPhone\"},\"id\":\"44033878261940\",\"image\":{\"src\":https://www.equinoxcounseling.comhttps://res.cloudinary.com/djpaotpl4/image/upload/v1764146206/AWA_gd5wo0.png"\",\"title\":\"Default Title\",\"untranslatedTitle\":\"Default Title\"}}]]" });
   </script>
   <script>
     window.ShopifyAnalytics = window.ShopifyAnalytics || {};
     window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
     window.ShopifyAnalytics.meta.currency = 'SGD';
-    var meta = { "product": { "id": 7986668568756, "gid": "gid:\/\/shopify\/Product\/7986668568756", "vendor": "Apple", "type": "iPhone", "variants": [{ "id": 44033878261940, "price": 234900, "name": "RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu", "public_title": null, "sku": "MG8P4X\/A" }] }, "page": { "pageType": "product", "resourceType": "product", "resourceId": 7986668568756 } };
+    var meta = { "product": { "id": 7986668568756, "gid": "gid:\/\/shopify\/Product\/7986668568756", "vendor": "Apple", "type": "iPhone", "variants": [{ "id": 44033878261940, "price": 234900, "name": "DEWALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu", "public_title": null, "sku": "MG8P4X\/A" }] }, "page": { "pageType": "product", "resourceType": "product", "resourceId": 7986668568756 } };
     for (var attr in meta) {
         window.ShopifyAnalytics.meta[attr] = meta[attr];
     }
@@ -919,8 +919,8 @@
             var token = match ? match[1] : undefined;
             if (!hasLoggedConversion(token)) {
                 setCookieIfConversion(token);
-                window.ShopifyAnalytics.lib.track("Viewed Product", { "currency": "SGD", "variantId": 44033878261940, "productId": 7986668568756, "productGid": "gid:\/\/shopify\/Product\/7986668568756", "name": "RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu", "price": "2349.00", "sku": "MG8P4X\/A", "brand": "Apple", "variant": null, "category": "iPhone", "nonInteraction": true }, undefined, undefined, { "shopifyEmitted": true });
-                window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1", { "currency": "SGD", "variantId": 44033878261940, "productId": 7986668568756, "productGid": "gid:\/\/shopify\/Product\/7986668568756", "name": "RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu", "price": "2349.00", "sku": "MG8P4X\/A", "brand": "Apple", "variant": null, "category": "iPhone", "nonInteraction": true, "referer": "https://fitatambaram.in/" });
+                window.ShopifyAnalytics.lib.track("Viewed Product", { "currency": "SGD", "variantId": 44033878261940, "productId": 7986668568756, "productGid": "gid:\/\/shopify\/Product\/7986668568756", "name": "DEWALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu", "price": "2349.00", "sku": "MG8P4X\/A", "brand": "Apple", "variant": null, "category": "iPhone", "nonInteraction": true }, undefined, undefined, { "shopifyEmitted": true });
+                window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1", { "currency": "SGD", "variantId": 44033878261940, "productId": 7986668568756, "productGid": "gid:\/\/shopify\/Product\/7986668568756", "name": "DEWALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu", "price": "2349.00", "sku": "MG8P4X\/A", "brand": "Apple", "variant": null, "category": "iPhone", "nonInteraction": true, "referer": "https://fitatambaram.in/" });
             }
         });
     
@@ -1441,7 +1441,7 @@
           <div class="brand--logo">
             <a href="https://fitatambaram.in/" class="header__heading-link link link--text focus-inset" aria-label="Home">
               <div class="ratio">
-                <img src="https://res.cloudinary.com/djpaotpl4/image/upload/v1760112704/77R_iie3sa.webp" loading="lazy" class="header__heading-logo company_logo ratio" width="300" height="300" alt="logo">
+                <img src="https://res.cloudinary.com/djpaotpl4/image/upload/v1757761541/DEWA_han50d.png" loading="lazy" class="header__heading-logo company_logo ratio" width="300" height="300" alt="logo">
               </div>
             </a>
           </div>
@@ -1676,7 +1676,7 @@
                       <span>
 
 
-                        RAJALANGIT77
+                        DEWALANGIT77
 
 
                       </span>
@@ -1918,16 +1918,16 @@
         {
           "@context": "https://schema.org",
           "@type": "Product",
-          "name": "RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu",
+          "name": "DEWALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu",
           "url": "https://fitatambaram.in/",
           "image": [
-            "https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png"
+            "https://res.cloudinary.com/djpaotpl4/image/upload/v1764146206/AWA_gd5wo0.png"
           ],
-          "description": "RAJALANGIT77 situs togel terpercaya tempat pasang angka togel 4d 3d 2d dengan hadiah terbesar dan diskon tertinggi menyediakan keluaran togel4d tercepat dan prediksi angka togel jitu hari ini.",
+          "description": "DEWALANGIT77 situs togel terpercaya tempat pasang angka togel 4d 3d 2d dengan hadiah terbesar dan diskon tertinggi menyediakan keluaran togel4d tercepat dan prediksi angka togel jitu hari ini.",
           "Jenis Game ": "TOGEL ONLINE, BANDAR TOGEL",
           "brand": {
             "@type": "Brand",
-            "name": "rajalangit77"
+            "name": "DEWALANGIT77"
           },
           "offers": {
             "@type": "Offer",
@@ -1938,10 +1938,10 @@
             "availability": "http://schema.org/InStock",
             "seller": {
               "@type": "Organization",
-              "name": "rajalangit77",
+              "name": "DEWALANGIT77",
               "sameAs": [
-                "https://www.facebook.com/rajalangit77",
-                "https://www.instagram.com/rajalangit77/",
+                "https://www.facebook.com/DEWALANGIT77",
+                "https://www.instagram.com/DEWALANGIT77/",
                 "https://fitatambaram.in/"
               ]
             }
@@ -1957,7 +1957,7 @@
             {
               "@type": "ListItem",
               "position": 1,
-              "name": "RAJALANGIT77",
+              "name": "DEWALANGIT77",
               "item": "https://fitatambaram.in/"
             },
             {
@@ -1987,7 +1987,7 @@
             {
               "@type": "ListItem",
               "position": 6,
-              "name": "SITUS RAJALANGIT77",
+              "name": "SITUS DEWALANGIT77",
               "item": "https://fitatambaram.in/"
             },
             {
@@ -1999,7 +1999,7 @@
             {
               "@type": "ListItem",
               "position": 8,
-              "name": "RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu",
+              "name": "DEWALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu",
               "item": "https://fitatambaram.in/"
             }
           ]
@@ -2010,22 +2010,22 @@
         {
           "@context": "https://schema.org",
           "@type": "Article",
-          "headline": "RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu",
+          "headline": "DEWALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu",
           "author": {
             "@type": "Organization",
-            "name": "RAJALANGIT77"
+            "name": "DEWALANGIT77"
           },
           "publisher": {
             "@type": "Organization",
-            "name": "RAJALANGIT77",
+            "name": "DEWALANGIT77",
             "logo": {
               "@type": "ImageObject",
-              "url": "https://res.cloudinary.com/djpaotpl4/image/upload/v1760112704/77R_iie3sa.webp"
+              "url": "https://res.cloudinary.com/djpaotpl4/image/upload/v1757761541/DEWA_han50d.png"
             }
           },
           "datePublished": "2025-09-28",
           "mainEntityOfPage": "https://fitatambaram.in/",
-          "description": "RAJALANGIT77 situs togel terpercaya tempat pasang angka togel 4d 3d 2d dengan hadiah terbesar dan diskon tertinggi menyediakan keluaran togel4d tercepat dan prediksi angka togel jitu hari ini."
+          "description": "DEWALANGIT77 situs togel terpercaya tempat pasang angka togel 4d 3d 2d dengan hadiah terbesar dan diskon tertinggi menyediakan keluaran togel4d tercepat dan prediksi angka togel jitu hari ini."
         }
       </script>
 
@@ -2036,15 +2036,15 @@
           "mainEntity": [
             {
               "@type": "Question",
-              "name": "Mengapa RAJALANGIT77 dianggap aman?",
+              "name": "Mengapa DEWALANGIT77 dianggap aman?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "RAJALANGIT77 menggunakan enkripsi data modern dan sistem keamanan berlapis untuk melindungi aktivitas pemain, sehingga setiap transaksi berlangsung dengan aman dan nyaman."
+                "text": "DEWALANGIT77 menggunakan enkripsi data modern dan sistem keamanan berlapis untuk melindungi aktivitas pemain, sehingga setiap transaksi berlangsung dengan aman dan nyaman."
               }
             },
             {
               "@type": "Question",
-              "name": "Apakah hasil togel di RAJALANGIT77 resmi?",
+              "name": "Apakah hasil togel di DEWALANGIT77 resmi?",
               "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "Ya. Semua hasil togel berasal dari pasaran resmi dan diperbarui secara real-time, sehingga pemain menerima data yang akurat, transparan, dan dapat dipercaya."
@@ -2052,7 +2052,7 @@
             },
             {
               "@type": "Question",
-              "name": "Bagaimana cara bermain di RAJALANGIT77?",
+              "name": "Bagaimana cara bermain di DEWALANGIT77?",
               "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "Cukup daftar akun, lakukan deposit, lalu pilih pasaran togel yang diinginkan. Prosesnya sederhana dan dirancang agar pemain baru pun bisa langsung mulai bermain."
@@ -2063,7 +2063,7 @@
               "name": "Pasaran apa saja yang tersedia?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "RAJALANGIT77 menyediakan berbagai pasaran populer seperti Singapore, Hongkong, Sydney, dan Macau, lengkap dengan jadwal dan hasil resmi yang diperbarui setiap hari."
+                "text": "DEWALANGIT77 menyediakan berbagai pasaran populer seperti Singapore, Hongkong, Sydney, dan Macau, lengkap dengan jadwal dan hasil resmi yang diperbarui setiap hari."
               }
             },
             {
@@ -2071,7 +2071,7 @@
               "name": "Apakah ada bonus bagi pemain?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Tentu. RAJALANGIT77 menawarkan berbagai bonus dan promo menarik untuk pemain baru maupun pemain aktif guna memberikan pengalaman bermain yang lebih menguntungkan."
+                "text": "Tentu. DEWALANGIT77 menawarkan berbagai bonus dan promo menarik untuk pemain baru maupun pemain aktif guna memberikan pengalaman bermain yang lebih menguntungkan."
               }
             }
           ]
@@ -2123,7 +2123,7 @@
               </div>
             </div>
             <div class="product-title-style product__title">
-              <h1>RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu</h1>
+              <h1>DEWALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu</h1>
             </div>
             <div class="product-subtitle-style"></div>
 
@@ -2158,7 +2158,7 @@
                     <div class="slick-track" style="opacity: 1; width: 5044px; transform: translate3d(-388px, 0px, 0px);">
                       <li class="slick-slide slick-cloned" data-slick-index="-1" style="width: 388px;">undefined</li>
                       <li class="slick-slide slick-current slick-active" data-slick-index="0" style="width: 388px;" aria-hidden="false" tabindex="0">
-                        <img src="https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png" alt="" srcset="https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png" width="823" height="823" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)"/>
+                        <img src="https://res.cloudinary.com/djpaotpl4/image/upload/v1764146206/AWA_gd5wo0.png" alt="" srcset="https://res.cloudinary.com/djpaotpl4/image/upload/v1764146206/AWA_gd5wo0.png" width="823" height="823" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)"/>
                       </li>
                       <li class="slick-slide" data-slick-index="1" style="width: 388px;">undefined</li>
                       <li class="slick-slide" data-slick-index="2" style="width: 388px;">undefined</li>
@@ -2171,7 +2171,7 @@
                       <li class="slick-slide" data-slick-index="9" style="width: 388px;">undefined</li>
                       <li class="slick-slide" data-slick-index="10" style="width: 388px;">undefined</li>
                       <li class="slick-slide slick-cloned" data-slick-index="11" style="width: 388px;">
-                        <img src="https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png" alt="" srcset="https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png" width="823" height="823" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)"/>
+                        <img src="https://res.cloudinary.com/djpaotpl4/image/upload/v1764146206/AWA_gd5wo0.png" alt="" srcset="https://res.cloudinary.com/djpaotpl4/image/upload/v1764146206/AWA_gd5wo0.png" width="823" height="823" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)"/>
                       </li>
                     </div>
                   </div><button class="slide-arrow next-arrow slick-arrow" style="display: block;">
@@ -2206,7 +2206,7 @@
                           </svg>
                         </div>
                         <div class="product__media media media--transparent">
-                          <img src="https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png" alt="" srcset="https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png" width="823" height="823" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                          <img src="https://res.cloudinary.com/djpaotpl4/image/upload/v1764146206/AWA_gd5wo0.png" alt="" srcset="https://res.cloudinary.com/djpaotpl4/image/upload/v1764146206/AWA_gd5wo0.png" width="823" height="823" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
                         </div>
                         <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122069156020">
                           <span class="visually-hidden">
@@ -2484,7 +2484,7 @@
                   </div>
                 </div>
                 <div class="product-title-style product__title">
-                  <h1>RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu</h1>
+                  <h1>DEWALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu</h1>
                 </div>
                 <div class="product-subtitle-style"></div>
 
@@ -2559,7 +2559,7 @@
                     </p>
                     <p>
                       <a href="https://fitatambran-blog.pages.dev/amp" target="_blank">
-                        <img style="display: block; margin-left: auto; margin-right: auto;" src="https://imgstore.io/images/2025/07/16/gif-olx.gif" alt="" width="350" height="100"/></a>
+                        <img style="display: block; margin-left: auto; margin-right: auto;" src="https://res.cloudinary.com/djpaotpl4/image/upload/v1757761541/DEWA_han50d.png" alt="" width="350" height="100"/></a>
                     </p>
                     <small class="unit-price caption hidden">
                       <span class="visually-hidden">Unit price</span>
@@ -2837,7 +2837,7 @@
                       <input type="hidden" class="pdp_product_category" value="iPhone"/>
                       <input type="hidden" class="pdp_product_currency" value="SGD"/>
                       <input type="hidden" class="pdp_product_price" id="product_price" value=""/>
-                      <input type="hidden" class="pdp_product_title" value="RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu">
+                      <input type="hidden" class="pdp_product_title" value="DEWALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu">
 
                       <div class="addtocartPDP product-form__buttons"><button id="addtocart-submit" type="submit" name="add" class="addtocartPDP product-form__submit button button--full-width button--secondary" disabled>
                           <span>Out of Stock
@@ -2975,7 +2975,7 @@
 
             <div class="product-media-modal__content color-background-1 gradient" role="document" aria-label="Media gallery" tabindex="0">
 
-              <img class="custom_popup_compare_32122069156020 global-media-settings global-media-settings--no-shadow" srcset="https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png" sizes="(min-width: 750px) calc(100vw - 22rem), 1100px" src="https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png" alt="" loading="lazy" width="1100" height="1100" data-media-id="32122069156020" style="display: block;"/>
+              <img class="custom_popup_compare_32122069156020 global-media-settings global-media-settings--no-shadow" srcset="https://res.cloudinary.com/djpaotpl4/image/upload/v1764146206/AWA_gd5wo0.png" sizes="(min-width: 750px) calc(100vw - 22rem), 1100px" src="https://res.cloudinary.com/djpaotpl4/image/upload/v1764146206/AWA_gd5wo0.png" alt="" loading="lazy" width="1100" height="1100" data-media-id="32122069156020" style="display: block;"/>
 
 
 
@@ -3088,7 +3088,7 @@
                                 <div class="multicolumn-card content-container">
                                   <div class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--half-width multicolumn-card-spacing">
                                     <div class="media media--transparent media--square">
-                                      <img src="https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png" alt="" srcset="https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png" width="3200" height="3200" loading="lazy" sizes="
+                                      <img src="https://res.cloudinary.com/djpaotpl4/image/upload/v1764146206/AWA_gd5wo0.png" alt="" srcset="https://res.cloudinary.com/djpaotpl4/image/upload/v1764146206/AWA_gd5wo0.png" width="3200" height="3200" loading="lazy" sizes="
                       (min-width: 1000px) calc((1000px - 132px) * 0.5 /  5),
                       (min-width: 990px) calc((100vw - 132px) * 0.5 / 5),
                       (min-width: 750px) calc((100vw - 108px) * 0.5 / 2),
@@ -3107,7 +3107,7 @@
                                 <div class="multicolumn-card content-container">
                                   <div class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--half-width multicolumn-card-spacing">
                                     <div class="media media--transparent media--square">
-                                      <img src="https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png" alt="" srcset="https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png" width="3200" height="3200" loading="lazy" sizes="
+                                      <img src="https://res.cloudinary.com/djpaotpl4/image/upload/v1764146206/AWA_gd5wo0.png" alt="" srcset="https://res.cloudinary.com/djpaotpl4/image/upload/v1764146206/AWA_gd5wo0.png" width="3200" height="3200" loading="lazy" sizes="
                       (min-width: 1000px) calc((1000px - 132px) * 0.5 /  5),
                       (min-width: 990px) calc((100vw - 132px) * 0.5 / 5),
                       (min-width: 750px) calc((100vw - 108px) * 0.5 / 2),
@@ -3126,7 +3126,7 @@
                                 <div class="multicolumn-card content-container">
                                   <div class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--half-width multicolumn-card-spacing">
                                     <div class="media media--transparent media--square">
-                                      <img src="https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png" alt="" srcset="https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png" width="3200" height="3200" loading="lazy" sizes="
+                                      <img src="https://res.cloudinary.com/djpaotpl4/image/upload/v1764146206/AWA_gd5wo0.png" alt="" srcset="https://res.cloudinary.com/djpaotpl4/image/upload/v1764146206/AWA_gd5wo0.png" width="3200" height="3200" loading="lazy" sizes="
                       (min-width: 1000px) calc((1000px - 132px) * 0.5 /  5),
                       (min-width: 990px) calc((100vw - 132px) * 0.5 / 5),
                       (min-width: 750px) calc((100vw - 108px) * 0.5 / 2),
@@ -3145,7 +3145,7 @@
                                 <div class="multicolumn-card content-container">
                                   <div class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--half-width multicolumn-card-spacing">
                                     <div class="media media--transparent media--square">
-                                      <img src="https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png" alt="" srcset="https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png" width="3200" height="3200" loading="lazy" sizes="
+                                      <img src="https://res.cloudinary.com/djpaotpl4/image/upload/v1764146206/AWA_gd5wo0.png" alt="" srcset="https://res.cloudinary.com/djpaotpl4/image/upload/v1764146206/AWA_gd5wo0.png" width="3200" height="3200" loading="lazy" sizes="
                       (min-width: 1000px) calc((1000px - 132px) * 0.5 /  5),
                       (min-width: 990px) calc((100vw - 132px) * 0.5 / 5),
                       (min-width: 750px) calc((100vw - 108px) * 0.5 / 2),
@@ -3164,7 +3164,7 @@
                                 <div class="multicolumn-card content-container">
                                   <div class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--half-width multicolumn-card-spacing">
                                     <div class="media media--transparent media--square">
-                                      <img src="https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png" alt="" srcset="https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png" width="3200" height="3200" loading="lazy" sizes="
+                                      <img src="https://res.cloudinary.com/djpaotpl4/image/upload/v1764146206/AWA_gd5wo0.png" alt="" srcset="https://res.cloudinary.com/djpaotpl4/image/upload/v1764146206/AWA_gd5wo0.png" width="3200" height="3200" loading="lazy" sizes="
                       (min-width: 1000px) calc((1000px - 132px) * 0.5 /  5),
                       (min-width: 990px) calc((100vw - 132px) * 0.5 / 5),
                       (min-width: 750px) calc((100vw - 108px) * 0.5 / 2),
@@ -3821,7 +3821,7 @@
                                 <div class="multicolumn-card content-container">
                                   <div class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--half-width multicolumn-card-spacing">
                                     <div class="media media--transparent media--square">
-                                      <img src="https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png" alt="" srcset="https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png" width="3200" height="3200" loading="lazy" sizes="
+                                      <img src="https://res.cloudinary.com/djpaotpl4/image/upload/v1764146206/AWA_gd5wo0.png" alt="" srcset="https://res.cloudinary.com/djpaotpl4/image/upload/v1764146206/AWA_gd5wo0.png" width="3200" height="3200" loading="lazy" sizes="
                       (min-width: 1000px) calc((1000px - 108px) * 0.5 /  2),
                       (min-width: 990px) calc((100vw - 108px) * 0.5 / 2),
                       (min-width: 750px) calc((100vw - 100px) * 0.5 / 1),
@@ -3842,7 +3842,7 @@
                                 <div class="multicolumn-card content-container">
                                   <div class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--half-width multicolumn-card-spacing">
                                     <div class="media media--transparent media--square">
-                                      <img src="https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png" alt="" srcset="https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png" width="3200" height="3200" loading="lazy" sizes="
+                                      <img src="https://res.cloudinary.com/djpaotpl4/image/upload/v1764146206/AWA_gd5wo0.png" alt="" srcset="https://res.cloudinary.com/djpaotpl4/image/upload/v1764146206/AWA_gd5wo0.png" width="3200" height="3200" loading="lazy" sizes="
                       (min-width: 1000px) calc((1000px - 108px) * 0.5 /  2),
                       (min-width: 990px) calc((100vw - 108px) * 0.5 / 2),
                       (min-width: 750px) calc((100vw - 100px) * 0.5 / 1),
@@ -3935,12 +3935,12 @@
               {
                 "@context": "http://schema.org/",
                 "@type": "Product",
-                "name": "RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu",
-                "url": "https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png",
+                "name": "DEWALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu",
+                "url": "https://res.cloudinary.com/djpaotpl4/image/upload/v1764146206/AWA_gd5wo0.png",
                 "image": [
-                  "https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png"
+                  "https://res.cloudinary.com/djpaotpl4/image/upload/v1764146206/AWA_gd5wo0.png"
                 ],
-                "description": "RAJALANGIT77 situs togel terpercaya tempat pasang angka togel 4d 3d 2d dengan hadiah terbesar dan diskon tertinggi menyediakan keluaran togel4d tercepat dan prediksi angka togel jitu hari ini.",
+                "description": "DEWALANGIT77 situs togel terpercaya tempat pasang angka togel 4d 3d 2d dengan hadiah terbesar dan diskon tertinggi menyediakan keluaran togel4d tercepat dan prediksi angka togel jitu hari ini.",
                 "sku": "TNT2025X",
                 "brand": {
                   "@type": "Brand",
@@ -3954,7 +3954,7 @@
                     "availability": "http://schema.org/OutOfStock",
                     "price": "2349.0",
                     "priceCurrency": "SGD",
-                    "url": "https://res.cloudinary.com/djpaotpl4/image/upload/v1763824066/EEEE_mbskz8.png"
+                    "url": "https://res.cloudinary.com/djpaotpl4/image/upload/v1764146206/AWA_gd5wo0.png"
                   }
                 ]
               }
@@ -4642,7 +4642,7 @@
                 id: "44033878261940",
                 product_id: "7986668568756",
                 product_sku: "TNT2025X",
-                product_title: "RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu",
+                product_title: "DEWALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu",
                 product_type: "iPhone",
                 product_price: "2,349.00",
                 productcomPrice: ""
@@ -6165,7 +6165,7 @@
             }
             var product_id = "44033878261940";
             var product_sku = "TNT2025X";
-            var product_title = "RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu";
+            var product_title = "DEWALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu";
             var product_type = "iPhone";
             var product_price = "2,349.00";
             var productcomPrice = "";
@@ -6719,10 +6719,10 @@
 
       <div class="page-width productcomparediv">
         <div class="togel-box">
-          <h2>RAJALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu</h2>
+          <h2>DEWALANGIT77: Situs Togel Terpercaya Pasaran Togel4D & Prediksi Angka Togel Jitu</h2>
           <p>
             <strong>
-              RAJALANGIT77 sebagai <em>TOGEL TERPERCAYA</em> Aman sekaligus <em>Bandar Togel Online</em> yang telah menjadi pilihan utama bagi para pencinta permainan angka di Indonesia. Kami menghadirkan pengalaman terbaik dalam taruhan TOGEL4D, dilengkapi dengan pasaran-pasaran paling lengkap dan ternama di dunia, memberikan Anda kebebasan untuk memasang ANGKA TOGEL pilihan Anda kapan saja. Di RAJALANGIT77, kami tidak hanya menawarkan permainan, tetapi juga jaminan keamanan transaksi dan transparansi hasil keluaran, menjadikan setiap taruhan yang Anda pasang sebagai langkah yang aman dan penuh potensi untuk meraih kemenangan terbesar.
+              DEWALANGIT77 sebagai <em>TOGEL TERPERCAYA</em> Aman sekaligus <em>Bandar Togel Online</em> yang telah menjadi pilihan utama bagi para pencinta permainan angka di Indonesia. Kami menghadirkan pengalaman terbaik dalam taruhan TOGEL4D, dilengkapi dengan pasaran-pasaran paling lengkap dan ternama di dunia, memberikan Anda kebebasan untuk memasang ANGKA TOGEL pilihan Anda kapan saja. Di DEWALANGIT77, kami tidak hanya menawarkan permainan, tetapi juga jaminan keamanan transaksi dan transparansi hasil keluaran, menjadikan setiap taruhan yang Anda pasang sebagai langkah yang aman dan penuh potensi untuk meraih kemenangan terbesar.
             </strong>
           </p>
         </div>
@@ -6732,16 +6732,16 @@
           <h3>❓ Pertanyaan yang Sering Diajukan (FAQ)</h3>
 
           <div class="faq-item">
-            <button class="faq-question">1. Apa keunggulan RAJALANGIT77?</button>
+            <button class="faq-question">1. Apa keunggulan DEWALANGIT77?</button>
             <div class="faq-answer">
-              <p>RAJALANGIT77 unggul dengan sistem keamanan tinggi, pasaran togel lengkap, dan layanan profesional yang siap membantu member 24 jam nonstop.</p>
+              <p>DEWALANGIT77 unggul dengan sistem keamanan tinggi, pasaran togel lengkap, dan layanan profesional yang siap membantu member 24 jam nonstop.</p>
             </div>
           </div>
 
           <div class="faq-item">
-            <button class="faq-question">2. Apakah RAJALANGIT77 aman?</button>
+            <button class="faq-question">2. Apakah DEWALANGIT77 aman?</button>
             <div class="faq-answer">
-              <p>Sangat aman! RAJALANGIT77 memakai teknologi <strong>enkripsi</strong> canggih dan perlindungan data berlapis untuk menjaga privasi setiap pemain.</p>
+              <p>Sangat aman! DEWALANGIT77 memakai teknologi <strong>enkripsi</strong> canggih dan perlindungan data berlapis untuk menjaga privasi setiap pemain.</p>
             </div>
           </div>
 
@@ -6755,7 +6755,7 @@
           <div class="faq-item">
             <button class="faq-question">4. Bagaimana cara bergabung?</button>
             <div class="faq-answer">
-              <p>Daftar di situs resmi RAJALANGIT77, lakukan deposit sesuai pilihan, lalu nikmati permainan togel favoritmu dengan mudah.</p>
+              <p>Daftar di situs resmi DEWALANGIT77, lakukan deposit sesuai pilihan, lalu nikmati permainan togel favoritmu dengan mudah.</p>
             </div>
           </div>
         </div>
@@ -7176,7 +7176,7 @@
 
             <div class="transparent_2 description">
               <div class="metafieldLabel collapseTheTd2">Description</div>
-              <div class="collapseTheTd2 overviewVal">RAJALANGIT77 situs togel terpercaya tempat pasang angka togel 4d 3d 2d dengan hadiah terbesar dan diskon tertinggi menyediakan keluaran togel4d tercepat dan prediksi angka togel jitu hari ini.</div>
+              <div class="collapseTheTd2 overviewVal">DEWALANGIT77 situs togel terpercaya tempat pasang angka togel 4d 3d 2d dengan hadiah terbesar dan diskon tertinggi menyediakan keluaran togel4d tercepat dan prediksi angka togel jitu hari ini.</div>
             </div>
 
 
@@ -7683,12 +7683,12 @@
           <div class="footer_logosMobile">
             <div class="footerLogo ">
               <div class="ratio" style="--ratio-percent: 46.97508896797152%">
-                <img srcset="https://res.cloudinary.com/djpaotpl4/image/upload/v1760112706/77_znpw7d.png" src="https://res.cloudinary.com/djpaotpl4/image/upload/v1760112706/77_znpw7d.png" alt="" loading="lazy" width="100" height="auto" style="max-width: min(100%, 100px);">
+                <img srcset="https://res.cloudinary.com/djpaotpl4/image/upload/v1757761541/DEWALANGITTTT-removebg-preview_yw3rbc.png" src="https://res.cloudinary.com/djpaotpl4/image/upload/v1757761541/DEWALANGITTTT-removebg-preview_yw3rbc.png" alt="" loading="lazy" width="100" height="auto" style="max-width: min(100%, 100px);">
               </div>
             </div>
             <div class="footerLogo ">
               <div class="ratio" style="--ratio-percent: 25.396825396825395%">
-                <img srcset="https://res.cloudinary.com/djpaotpl4/image/upload/v1760112706/77_znpw7d.png" src="https://res.cloudinary.com/djpaotpl4/image/upload/v1760112706/77_znpw7d.png" alt="" loading="lazy" width="130" height="auto" style="max-width: min(100%, 130px);">
+                <img srcset="https://res.cloudinary.com/djpaotpl4/image/upload/v1757761541/DEWALANGITTTT-removebg-preview_yw3rbc.png" src="https://res.cloudinary.com/djpaotpl4/image/upload/v1757761541/DEWALANGITTTT-removebg-preview_yw3rbc.png" alt="" loading="lazy" width="130" height="auto" style="max-width: min(100%, 130px);">
               </div>
             </div>
             <div class="footerLogo "><svg class="placeholder-svg placeholder" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 525.5 525.5">
@@ -7713,7 +7713,7 @@
             <ul class="footer-block__details-content list-unstyled">
               <li>
                 <a href="https://fitatambaram.in/" class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                  RAJALANGIT77
+                  DEWALANGIT77
                 </a>
               </li>
               <li>
@@ -7866,7 +7866,7 @@
             <div class="footer_logos">
               <div class="footerLogo ">
                 <div class="ratio" style="--ratio-percent: 46.97508896797152%">
-                  <img srcset="https://imgstore.io/images/2025/08/02/logo-rajalangit77-gif.gif" src="https://res.cloudinary.com/djpaotpl4/image/upload/v1760112704/77R_iie3sa.webp" alt="" loading="lazy" width="100" height="auto" style="max-width: min(100%, 100px);">
+                  <img srcset="https://imgstore.io/images/2025/08/02/logo-DEWALANGIT77-gif.gif" src="https://res.cloudinary.com/djpaotpl4/image/upload/v1757761541/DEWA_han50d.png" alt="" loading="lazy" width="100" height="auto" style="max-width: min(100%, 100px);">
                 </div>
               </div>
               <div class="footerLogo "><svg class="placeholder-svg placeholder" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 525.5 525.5">
@@ -7990,7 +7990,7 @@
                 <div class="copyrightCss footer__copyright caption">
                   <span class="copyright__content">&copy; 2025, <a href="https://fitatambaram.in/" title="">TOGEL ONLINE</a></span>
                   <span class="copyright__content"><a target="_blank" rel="nofollow" href="#">Powered
-                      by RAJALANGIT77</a></span>
+                      by DEWALANGIT77</a></span>
                 </div>
               </div>
             </div>
@@ -8120,7 +8120,7 @@
           <div class="collapsible-content-wrapper-narrow">
             <div class="collapsible-content__header" style="text-align: center;">
               <p class="caption-with-letter-spacing">
-                © Copyright 2025 | RAJALANGIT77 | All rights reserved | SEO KVG.
+                © Copyright 2025 | DEWALANGIT77 | All rights reserved | SEO KVG.
               </p>
 
               <h2 class="visually-hidden">Single column accordion</h2>
