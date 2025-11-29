@@ -1962,25 +1962,25 @@
             {
               "@type": "ListItem",
               "position": 2,
-              "name": "DEWALANGIT77 DAFTAR,
+              "name": "DEWALANGIT77 DAFTAR",
               "item": "https://fitatambaram.in/"
             },
             {
               "@type": "ListItem",
               "position": 3,
-              "name": "DEWALANGIT77 LOGIN,
+              "name": "DEWALANGIT77 LOGIN",
               "item": "https://fitatambaram.in/"
             },
             {
               "@type": "ListItem",
               "position": 4,
-              "name": "LINK DEWALANGIT77
+              "name": "LINK DEWALANGIT77",
               "item": "https://fitatambaram.in/"
             },
             {
               "@type": "ListItem",
               "position": 5,
-              "name": "ALTERNATIF DEWALANGIT77,
+              "name": "ALTERNATIF DEWALANGIT77",
               "item": "https://fitatambaram.in/"
             },
             {
