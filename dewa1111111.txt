@@ -274,7 +274,7 @@
     {
       "@type": "SoftwareApplication",
       "@id": "https://www.ntclc.org/our-values/#app",
-      "name": "DEWALANGIT77,
+      "name": "DEWALANGIT77",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
       "offers": { "@type": "Offer", "price": "0", "priceCurrency": "IDR" },
