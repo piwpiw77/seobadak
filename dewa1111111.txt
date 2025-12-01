@@ -152,7 +152,7 @@
       "image": [
     {
       "@type": "ImageObject",
-      "author": "DEWALANGIT77,
+      "author": "DEWALANGIT77",
       "contentUrl": "https://res.cloudinary.com/djpaotpl4/image/upload/v1764576717/dawda-AA93_uqzhyv.png",
       "thumbnailUrl": "https://res.cloudinary.com/djpaotpl4/image/upload/v1764576717/dawda-AA93_uqzhyv.png"
     }
@@ -160,7 +160,7 @@
       "category": "Android Game < Situs Toto < Toto Slot",
       "brand": {
     "@type": "Brand",
-    "name": "DEWALANGIT77
+    "name": "DEWALANGIT77"
       },
       "logo": "https://res.cloudinary.com/djpaotpl4/image/upload/v1760003040/Aajdaj_ovur0v.png",
       "aggregateRating": {
@@ -284,12 +284,12 @@
     }
   </script>
 
-  <meta name="twitter:site" content="@DEWALANGIT77 value=""/>
+  <meta name="twitter:site" content="@DEWALANGIT77" value=""/>
   <meta name="twitter:card" content="summary_large_image" value=""/>
-  <meta name="twitter:app:name:iphone" content="DEWALANGIT77 value=""/>
+  <meta name="twitter:app:name:iphone" content="DEWALANGIT77" value=""/>
   <meta name="twitter:app:url:iphone" content="etsy://listing/4302118744?ref=TwitterProductCard" value=""/>
   <meta name="twitter:app:id:iphone" content="477128284" value=""/>
-  <meta name="twitter:app:name:ipad" content="DEWALANGIT77 value=""/>
+  <meta name="twitter:app:name:ipad" content="DEWALANGIT77" value=""/>
   <meta name="twitter:app:url:ipad" content="etsy://listing/4302118744?ref=TwitterProductCard" value=""/>
   <meta name="twitter:app:id:ipad" content="477128284" value=""/>
   <meta name="twitter:app:name:googleplay" content="DEWALANGIT77" value=""/>
@@ -307,10 +307,10 @@
 
   <meta property="al:ios:url" content="etsy://listing/4302118744?ref=applinks_ios"/>
   <meta property="al:ios:app_store_id" content="477128284"/>
-  <meta property="al:ios:app_name" content="DEWALANGIT77/>
+  <meta property="al:ios:app_name" content="DEWALANGIT77"/>
   <meta property="al:android:url" content="etsy://listing/4302118744?ref=applinks_android"/>
   <meta property="al:android:package" content="com.etsy.android"/>
-  <meta property="al:android:app_name" content="DEWALANGIT77/>
+  <meta property="al:android:app_name" content="DEWALANGIT77"/>
 
   <link rel="preconnect" href="//i.etsystatic.com" crossorigin="anonymous"/>
   <link rel="preconnect" href="//i.etsystatic.com"/>
@@ -366,7 +366,7 @@
   <meta name="msapplication-TileColor" content="#F1641E"/>
   <meta name="theme-color" content="rgb(255, 255, 255)"/>
 
-  <link type="application/opensearchdescription+xml" rel="search" href="/osdd.php" title="DEWALANGIT77/>
+  <link type="application/opensearchdescription+xml" rel="search" href="/osdd.php" title="DEWALANGIT77"/>
   <script async="" src="//resources.xg4ken.com/js/v2/ktag.js?tid=KT-N3E88-3EB"></script>
   <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1001213127/?random=1758097072073&cv=11&fst=1758097072073&bg=ffffff&guid=ON&async=1&gtm=45be59f1v879674188z86935543za200zb6935543zd6935543xea&gcd=13t3t3t3t5l1&dma=0&tag_exp=101509157~102015666~103116026~103200004~103233427~104527907~104528500~104630779~104630781~104684208~104684211~104948813~105367987~105367989~105426769~105426771~115480710~115688283~115688285&u_w=412&u_h=732&url=https%3A%2F%2Fsipanda.unib.ac.id%2F&frm=0&tiba=SIGMASLOT%20!%20AGEN%20LINK%20SLOT%20GACOR%202025%20GAMPANG%20MAXWIN%20JP%20PAUS%20MALAM%20INI&hn=www.googleadservices.com&npa=0&pscdl=noapi&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&_tu=CA&data=ecomm_prodid%3D%3Becomm_pagetype%3Dother%3Becomm_totalvalue%3D%3Becomm_rec_prodid%3D%3Becomm_category%3D%3Becomm_pvalue%3D%3Becomm_quantity%3D%3Ba%3D%3Bg%3D%3Bhasaccount%3Dfalse%3Bcqs%3D%3Brp%3D%3Bly%3D%3Bhs%3D%3B_google_crm_id%3D%3Bads_data_redaction%3Dfalse&rfmt=3&fmt=4" nonce="+gWSoSeB7oJ/5IB7H6o53UJw">
   </script>
